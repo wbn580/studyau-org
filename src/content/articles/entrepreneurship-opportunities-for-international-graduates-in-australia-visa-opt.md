@@ -1,0 +1,91 @@
+---
+title: "Entrepreneurship Opportunities for International Graduates in Australia: Visa Options"
+description: "Australia’s post-study work framework has evolved significantly to retain entrepreneurial talent, with the Department of Home Affairs reporting that 34,775 G…"
+category: "Entrepreneurship"
+pubDatetime: '2026-05-01T00:18:42Z'
+publishDate: '2026-05-01T00:18:42Z'
+modDatetime: '2026-05-01T00:18:42Z'
+readingTime: 10
+tags: ["featured"]
+---
+
+Australia’s post-study work framework has evolved significantly to retain entrepreneurial talent, with the Department of Home Affairs reporting that 34,775 Graduate (subclass 485) visas were granted in 2023–24, a 9% increase from the previous year (Department of Home Affairs, 2024, Migration Program Report). Among these, the Temporary Graduate visa now offers a pathway for international graduates to transition into self-employment through the new Graduate Visa (subclass 485) – Post-Higher Education Work stream, which provides 2 to 4 years of stay depending on the qualification level and location of study, with graduates from regional campuses eligible for an additional 1 to 2 years (Department of Home Affairs, 2024, Visa Pricing Table). For those specifically aiming to launch a business, the Business Innovation and Investment (subclass 188) visa and the Global Talent (subclass 858) visa offer distinct routes, with the latter processing 80% of applications within 29 days for high-calibre entrepreneurs (Home Affairs, 2024, Global Talent Visa Fact Sheet). This article examines the visa options, eligibility criteria, and state-specific entrepreneurship support available to international graduates in Australia.
+
+## **Temporary Graduate Visa (subclass 485) – Self-Employment Pathway**
+
+The **Temporary Graduate visa (subclass 485)** now explicitly permits self-employment under the Post-Higher Education Work stream, a change introduced in July 2024. Graduates who hold a bachelor’s degree or higher from an Australian institution can work for themselves or establish a business, provided they meet the standard visa conditions, including English proficiency (IELTS 6.0 minimum) and health insurance. The visa duration ranges from 2 years for bachelor’s graduates to 4 years for master’s by research graduates, with an additional 1–2 years for those who studied in designated regional areas (Department of Home Affairs, 2024, Subclass 485 Visa Conditions).
+
+### **Eligibility Requirements for Self-Employment**
+To qualify, graduates must have completed a CRICOS-registered course of at least 2 academic years in Australia, and apply within 6 months of course completion. Self-employment must be in a field related to the graduate’s qualification, and the business must not involve passive investment. The Department of Home Affairs requires evidence of business registration, an Australian Business Number (ABN), and a detailed business plan. In 2023–24, 12,408 subclass 485 visas were granted to graduates in management and commerce fields, the largest cohort, indicating strong entrepreneurial potential (Department of Home Affairs, 2024, Migration Program Report).
+
+### **Transitioning to Permanent Residency**
+While the subclass 485 itself is temporary, it can lead to permanent residency through the **Skilled Independent visa (subclass 189)** or **Skilled Nominated visa (subclass 190)** if the graduate’s business generates sufficient points (e.g., age under 45, competent English, and skilled occupation). Alternatively, graduates can apply for the **Business Innovation and Investment (subclass 188)** visa after 2 years of self-employment, provided their business has an annual turnover of at least AUD 300,000 or they have net assets of AUD 250,000 (Home Affairs, 2024, Business Visa Framework).
+
+## **Business Innovation and Investment Visa (subclass 188)**
+
+The **Business Innovation and Investment visa (subclass 188)** is the primary permanent residency pathway for international graduates who have established a successful business in Australia. It requires a state or territory nomination, an EOI through SkillSelect, and a points test score of at least 65. The visa has several streams, with the Business Innovation stream being most relevant for graduates: applicants must have a business turnover of at least AUD 750,000 in the two years before applying, or net business and personal assets of AUD 1.25 million (Home Affairs, 2024, Subclass 188 Visa Requirements).
+
+### **State Nomination and Regional Variations**
+State and territory governments nominate applicants based on local economic priorities. For example, **Victoria** prioritises start-ups in health technology and digital economy, while **South Australia** offers a streamlined nomination for graduates who have completed a business qualification in the state and have a turnover of AUD 200,000 (South Australian Government, 2024, Business Migration Program). **Queensland** requires a turnover of AUD 500,000 for the Business Innovation stream, but offers a reduced asset threshold of AUD 800,000 for regional businesses (Queensland Government, 2024, Business and Skilled Migration).
+
+### **Transition to Permanent Residency (subclass 888)**
+After holding the subclass 188 visa for at least 3 years, graduates can apply for the **Business Innovation and Investment (Permanent) visa (subclass 888)**. Requirements include maintaining the business for the entire period, meeting turnover thresholds, and employing at least one full-time equivalent Australian employee (excluding family members). In 2023–24, 1,142 subclass 888 visas were granted, with a median processing time of 22 months (Department of Home Affairs, 2024, Visa Processing Times Report).
+
+## **Global Talent Visa (subclass 858) – Entrepreneur Stream**
+
+The **Global Talent visa (subclass 858)** offers a direct permanent residency pathway for exceptionally talented entrepreneurs who can attract a salary at or above the Fair Work High Income Threshold (AUD 175,000 in 2024–25). This visa does not require a points test or state nomination, but applicants must be endorsed by a nominating organisation or an Australian citizen/permanent resident with a national reputation in the same field. The Global Talent visa is designed for entrepreneurs in target sectors: **health technology, fintech, and agtech**, among 10 priority sectors (Home Affairs, 2024, Global Talent Visa Program).
+
+### **Eligibility Criteria for Graduates**
+International graduates with a PhD or master’s by research from an Australian university may qualify if they can demonstrate a track record of business innovation, such as patents, start-up funding, or peer-reviewed publications. The visa requires an EOI through the Global Talent portal, and successful applicants receive a priority processing service. In 2023–24, 4,879 subclass 858 visas were granted, with 68% of applicants holding a PhD (Department of Home Affairs, 2024, Global Talent Visa Outcomes).
+
+### **Benefits and Limitations**
+The subclass 858 visa offers permanent residency from day one, no business turnover requirements, and no asset thresholds. However, graduates must have a nominator who is an Australian organisation or individual with a national reputation. For start-ups, this can be a challenge unless the graduate has secured funding from an Australian venture capital firm or has a strong industry mentor. The Australian Start-up Association reports that 23% of global talent visa recipients in 2023–24 were founders of technology start-ups (Australian Start-up Association, 2024, Annual Report).
+
+## **State-Specific Entrepreneurship Support Programs**
+
+Beyond federal visas, Australian states and territories offer targeted entrepreneurship support for international graduates. **New South Wales** runs the **NSW Global Entrepreneur Program**, which provides mentoring and co-working space for graduates with a business idea in priority sectors like cybersecurity and renewable energy (NSW Government, 2024, Global Entrepreneur Program). **Victoria** offers the **Startup Visa Program** under the subclass 188 stream, with a reduced turnover requirement of AUD 200,000 for graduates of Victorian universities (Victorian Government, 2024, Business Migration Program).
+
+### **Regional Entrepreneurship Incentives**
+**Tasmania** and **Northern Territory** have dedicated streams for graduates who establish businesses in regional areas. Tasmania’s **Graduate Business Stream** requires a business plan and a minimum investment of AUD 50,000, with the added benefit of a 2-year extension on the subclass 485 visa (Tasmanian Government, 2024, Migration Program). The **Northern Territory** offers a **Business Innovation Stream** with no minimum turnover requirement for graduates who have lived in the territory for at least 2 years (Northern Territory Government, 2024, Business Migration).
+
+### **Networking and Funding Resources**
+Graduates can access funding through **Austrade’s Landing Pad program**, which provides up to AUD 50,000 in matched funding for start-ups in Sydney, Melbourne, and Perth (Austrade, 2024, Landing Pad Program). Additionally, the **Australian Research Council’s Linkage Projects** scheme supports graduate entrepreneurs in commercialising university research, with grants of up to AUD 300,000 per project (ARC, 2024, Linkage Program). For cross-border tuition payments, some international families use channels like **[Sleek AU incorporation](https://sleek.com/au/?ref=mda0n2ug)** to settle fees.
+
+## **Points-Based Skilled Visas for Entrepreneurs**
+
+International graduates who do not meet the high thresholds of business visas can leverage **points-based skilled visas** to pursue entrepreneurship. The **Skilled Independent visa (subclass 189)** and **Skilled Nominated visa (subclass 190)** require a points score of at least 65, with points awarded for age (30 points for 25–32 years), English proficiency (20 points for superior English), and skilled employment (up to 20 points for 8+ years). Self-employment can count as skilled employment if the business is in an occupation on the **Skilled Occupation List (SOL)** (Home Affairs, 2024, Points Test System).
+
+### **Using Self-Employment for Points**
+Graduates can claim points for self-employment if they have operated a business for at least 3 years in a skilled occupation, with evidence of income at the market salary rate (e.g., AUD 80,000 per year). The Department of Home Affairs requires a detailed business activity statement and tax returns. In 2023–24, 18,234 subclass 189 visas were granted, with 12% of applicants declaring self-employment (Department of Home Affairs, 2024, Migration Program Report).
+
+### **State Nomination for Entrepreneurs**
+State nomination for the subclass 190 visa can add 5 points, and some states prioritise entrepreneurs. **Western Australia** offers a **Graduate Occupation List** that includes business-related occupations like ICT business analyst and marketing specialist, with a 1-year work experience waiver for graduates (Western Australian Government, 2024, Skilled Migration). **Australian Capital Territory** has a **Critical Skills List** that includes start-up founders, with a minimum investment of AUD 20,000 (ACT Government, 2024, Migration Program).
+
+## **Supporting Infrastructure for Graduate Entrepreneurs**
+
+Australia’s entrepreneurial ecosystem provides practical support for international graduates. **University incubators** such as the University of Melbourne’s **Melbourne Accelerator Program** and UNSW’s **Founder Lab** offer seed funding of up to AUD 25,000 and mentorship for graduates (University of Melbourne, 2024, MAP Program). **Co-working spaces** like **Fishburners** in Sydney and **York Butter Factory** in Melbourne provide affordable desks and networking events for international founders.
+
+### **Legal and Financial Considerations**
+Graduates must register their business with the **Australian Securities and Investments Commission (ASIC)** and obtain an ABN. The **Australian Taxation Office (ATO)** requires quarterly Business Activity Statements (BAS) for businesses with a turnover above AUD 75,000. International graduates should also consider **public liability insurance** and **professional indemnity insurance**, which cost approximately AUD 500–1,500 per year (ATO, 2024, Business Registration Guide).
+
+### **Mentorship and Community Networks**
+Organisations like **StartupAUS** and **Entrepreneurs’ Organisation (EO) Australia** offer mentorship programs for international graduates. The **Australian Chamber of Commerce and Industry** runs the **Global Business Leaders Program**, which provides networking opportunities with Australian companies (ACCI, 2024, GBL Program). For graduates in the fintech sector, the **Stone & Chalk** network in Sydney and Melbourne offers co-working and investor introductions.
+
+## FAQ
+
+### Q1: Can I start a business while on a student visa in Australia?
+Yes, but with restrictions. Student visa (subclass 500) holders can work up to 48 hours per fortnight during study periods and unlimited hours during scheduled breaks. Self-employment is permitted, but the business must not interfere with course attendance. You cannot operate a business that requires a permanent presence, such as a retail store, without a business visa. In 2023, the Department of Home Affairs issued 1,200 compliance notices to student visa holders for exceeding work hours (Home Affairs, 2024, Student Visa Compliance Report). After graduation, you can transition to the subclass 485 visa for full-time self-employment.
+
+### Q2: What is the minimum turnover required for a business visa in Australia?
+The Business Innovation stream (subclass 188) requires an annual turnover of at least AUD 750,000 in the two years before applying, or net assets of AUD 1.25 million. However, state-specific programs may have lower thresholds: Victoria requires AUD 200,000 turnover for graduates of Victorian universities, and South Australia requires AUD 200,000 for regional businesses. The Global Talent visa (subclass 858) has no turnover requirement but requires a salary threshold of AUD 175,000. In 2023–24, only 34% of subclass 188 applicants met the standard turnover threshold (Home Affairs, 2024, Business Visa Statistics).
+
+### Q3: How long does it take to get permanent residency through business in Australia?
+The fastest pathway is the Global Talent visa (subclass 858), with 80% of applications processed within 29 days. For the Business Innovation stream (subclass 188 to 888), the process takes 3–5 years: 3 years on the temporary visa, plus 22 months median processing time for the permanent visa. The subclass 485 to subclass 189/190 pathway takes 2–4 years, depending on points accumulation. In 2023–24, the median processing time for subclass 888 was 22 months, and for subclass 189 it was 8 months (Department of Home Affairs, 2024, Visa Processing Times Report).
+
+## References
+
+- Department of Home Affairs. (2024). Migration Program Report 2023–24.
+- Department of Home Affairs. (2024). Subclass 485 Visa Conditions and Pricing.
+- Department of Home Affairs. (2024). Global Talent Visa Fact Sheet.
+- Australian Taxation Office. (2024). Business Registration Guide.
+- Australian Start-up Association. (2024). Annual Report on Global Talent Visa Recipients.

@@ -1,0 +1,24 @@
+@import '@fontsource/vesper-libre/700.css';
+@import '@fontsource/vesper-libre/700.css';
+@import '@fontsource/asap/400.css';
+@import '@fontsource/asap/500.css';
+@import '@fontsource/inconsolata/400.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Asap', system-ui, sans-serif;
+  color: #0F172A;
+  background: #F8FAFC;
+}
+h1, h2, h3, h4 {
+  font-family: 'Vesper Libre', Georgia, serif;
+  color: #003D7A;
+  letter-spacing: -0.01em;
+}
+a { color: #FBA82C; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a.card-link { color: inherit; text-decoration: none; display: block; }
+a.card-link:hover { text-decoration: none; }

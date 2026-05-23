@@ -1,0 +1,60 @@
+---
+title: "澳洲留学移民专业选择与MLTSSL清单解读"
+description: "Australia’s skilled migration framework directly links study choices to long-term residency pathways, with the Medium and Long-term Strategic Skills List (ML…"
+category: "澳洲留学移民专业选择与M"
+pubDatetime: '2026-03-24T00:10:18Z'
+publishDate: '2026-03-24T00:10:18Z'
+modDatetime: '2026-03-24T00:10:18Z'
+readingTime: 3
+tags: ["featured"]
+---
+
+Australia’s skilled migration framework directly links study choices to long-term residency pathways, with the Medium and Long-term Strategic Skills List (MLTSSL) serving as the central reference for occupations eligible for visas such as the Subclass 189 (Skilled Independent) and Subclass 485 (Temporary Graduate). As of the 2023-24 program year, the Australian Government’s Department of Home Affairs listed 212 occupations on the MLTSSL, covering sectors from engineering to healthcare, each with specific qualification and work experience requirements. According to the Australian Bureau of Statistics (ABS, 2023, *Labour Force, Australia*), skilled migration accounted for 68.4% of the total permanent migration program in 2022-23, underscoring the importance of aligning educational pathways with these priority occupations. For international students aged 18-35, selecting a course that corresponds to an MLTSSL occupation can significantly improve visa outcomes, with the Department of Home Affairs (2023, *Migration Program Planning Levels*) allocating 70% of the 190,000 permanent places to the skilled stream. This article provides a data-driven analysis of how to navigate the MLTSSL when choosing a study program in Australia, covering key occupation groups, state-specific variations, and practical steps for course selection.
+
+## Understanding the MLTSSL and Its Role in Migration
+
+The **MLTSSL** is a legislative instrument maintained by the Department of Home Affairs that lists occupations for which Australia has identified medium- to long-term skill shortages. Occupations on this list are eligible for the Subclass 189 visa, which does not require state or employer sponsorship, and for the Subclass 485 Temporary Graduate visa, allowing graduates to work in Australia for 18 months to four years depending on their qualification level. As of December 2023, the list included 212 occupations, compared to 216 in 2021, reflecting periodic adjustments based on labour market analysis by Jobs and Skills Australia (JSA, 2023, *Skills Priority List*). For example, registered nurses (2544 series) remain on the MLTSSL, with a projected shortage of over 10,000 nurses by 2025, according to the Australian Health Practitioner Regulation Agency (AHPRA, 2023). International students should verify that their intended occupation appears on the current MLTSSL before enrolling, as changes occur annually. The Department of Home Affairs (2023, *Skilled Occupation List*) publishes updates each July, and cross-referencing with the ANZSCO code is essential for accuracy.
+
+## High-Demand Occupation Groups on the MLTSSL
+
+### Health and Allied Health Professions
+
+Healthcare occupations dominate the MLTSSL, reflecting Australia's ageing population and ongoing demand. The **registered nurse** (ANZSCO 2544) category alone includes 16 specialisations, from aged care to critical care, all eligible for the Subclass 189 visa. According to JSA (2023, *Skills Priority List*), 82% of health occupations on the MLTSSL were rated as having "strong" or "moderate" shortage nationally. Medical practitioners, including general practitioners (ANZSCO 2531) and specialists such as anaesthetists (ANZSCO 2532), also feature prominently, though these require postgraduate qualifications and often 12–24 months of supervised practice. For international students, Bachelor of Nursing programs (typically three years) are a common pathway, with over 30 Australian universities offering accredited courses. For example, the University of Sydney and Monash University both report graduate employment rates above 90% for nursing within six months of graduation (QILT, 2023, *Graduate Outcomes Survey*).
+
+### Engineering and Information Technology
+
+Engineering occupations on the MLTSSL include civil (ANZSCO 2332), electrical (ANZSCO 2333), and mechanical (ANZSCO 2335) engineers, each requiring a four-year accredited Bachelor's degree or equivalent. The **information technology** sector is represented by software and applications programmers (ANZSCO 2613) and ICT security specialists (ANZSCO 2621), with the latter added in 2019 due to rising cybersecurity threats. The Australian Computer Society (ACS, 2023, *ICT Workforce Report*) estimates that Australia will need 1.2 million tech workers by 2030, with a current shortfall of 60,000. For students, Master of Information Technology programs (1.5–2 years) often include industry placements, and graduates can apply for the Subclass 485 visa to gain work experience. The Department of Home Affairs (2023) notes that 28% of Subclass 189 invitations in 2022-23 were issued to ICT and engineering professionals.
+
+## State and Territory Nomination Variations
+
+While the MLTSSL applies nationally for the Subclass 189 visa, state and territory nomination programs (Subclass 190 and 491) use their own lists, which may include occupations not on the MLTSSL. For example, **South Australia** (Migration SA, 2023-24) offers nomination for 470 occupations, including many on the MLTSSL plus additional roles like social workers and early childhood teachers. **Victoria** prioritises health, engineering, and digital occupations, with 75% of its 2023-24 nomination places allocated to these sectors (Victorian Government, 2023, *Skilled Migration Program*). **Western Australia** specifically targets construction and mining engineers, reflecting its resource-driven economy. International students who graduate from a regional campus (e.g., in Tasmania or Northern Territory) may access the Designated Area Migration Agreement (DAMA), which offers concessions on age and English requirements. The Department of Home Affairs (2023) reports that 45% of Subclass 190 visas in 2022-23 were granted to applicants who studied in Australia, highlighting the advantage of local qualifications.
+
+## Practical Steps for Selecting a Study Program
+
+To align study choices with the MLTSSL, students should first identify their target occupation and verify its ANZSCO code using the **Department of Home Affairs Skilled Occupation List** (updated July 2023). Next, research which universities offer accredited courses—for example, Engineers Australia accredits over 200 engineering programs, while the Australian Nursing and Midwifery Accreditation Council (ANMAC) lists 45 nursing degrees. Consider state nomination opportunities: if your occupation is in high demand in a specific state, studying there may lead to a faster pathway. For instance, studying teaching in Queensland could lead to state nomination, as Queensland (2023-24) lists early childhood teachers on its skilled occupation list. Additionally, factor in the cost of living: the Australian Government (2023, *Study Australia*) estimates annual living expenses at AUD 21,041 for a single student, with higher costs in Sydney and Melbourne. For cross-border tuition payments, some international families use channels like [Flywire tuition payment](https://invl.me/clngebt) to settle fees efficiently.
+
+## Graduate Visa Pathways and Work Rights
+
+The Subclass 485 Temporary Graduate visa is a critical bridge for international students transitioning to skilled migration. As of July 2023, graduates with a Bachelor's degree can stay for two years, Master's for three years, and PhD for four years, with certain regional study extending this by one to two years (Department of Home Affairs, 2023, *Temporary Graduate Visa*). To qualify, students must complete a course of at least two years (92 weeks) in Australia, with all study in a CRICOS-registered program. The **skilled occupation** requirement for the Subclass 485 visa does not require a job offer, but the occupation must be on the MLTSSL for the visa to lead to permanent residency later. According to the Department of Home Affairs (2023), 73,000 Subclass 485 visas were granted in 2022-23, a 15% increase from the previous year, driven by post-pandemic border reopening. Graduates should also consider the Skilled Work Regional (Provisional) visa (Subclass 491), which offers a pathway to permanent residency after three years in a regional area.
+
+## Common Misconceptions and Key Considerations
+
+One common misconception is that any occupation on the MLTSSL guarantees a visa. In reality, the **points test** for the Subclass 189 visa requires a minimum of 65 points, with factors including age (25–32 years yields 30 points), English proficiency (Proficient or Superior), and work experience. The Department of Home Affairs (2023) reports that the average invitation score for the Subclass 189 in 2022-23 was 85 points, meaning most successful applicants had additional points from state nomination, partner skills, or professional year programs. Another consideration is that some occupations, such as accountants (ANZSCO 2211), require a skills assessment from CPA Australia or CA ANZ, which may demand a specific curriculum. Finally, policy changes can affect lists: in 2023, the Australian Government announced a review of the MLTSSL to align with the *Migration Strategy* released in December 2023, which emphasised reducing the temporary visa backlog and prioritising high-skilled workers (Department of Home Affairs, 2023). Students should monitor updates via the Home Affairs website and consider professional year programs for additional points.
+
+## FAQ
+
+### Q1: How often is the MLTSSL updated, and how can I check if my occupation is still on the list?
+A1: The MLTSSL is updated annually, typically in July, by the Department of Home Affairs. As of the 2023-24 list, there were 212 occupations. To check, visit the Department's Skilled Occupation List page and search by ANZSCO code. For example, registered nurse (ANZSCO 254412) has been on the list for over a decade, but some occupations like baker (ANZSCO 351111) were removed in 2022. Always verify the current list within six months of your visa application, as changes can occur mid-year through legislative instruments.
+
+### Q2: Can I apply for permanent residency without a job offer if my occupation is on the MLTSSL?
+A2: Yes, the Subclass 189 Skilled Independent visa does not require a job offer or state nomination. However, you must score at least 65 points on the points test and receive an invitation to apply. In 2022-23, the minimum invitation score for the Subclass 189 was 65 points, but for high-demand occupations like software engineer, the average was 90 points. Without a job offer, you rely on age, English skills, and qualifications—for example, a 28-year-old with a Master's degree and Superior English (20 points) would have 70 points, which may be competitive for some occupations.
+
+### Q3: What is the difference between the MLTSSL and the STSOL for state nomination?
+A3: The MLTSSL (Medium and Long-term Strategic Skills List) covers 212 occupations eligible for the Subclass 189 and 485 visas, while the STSOL (Short-term Skilled Occupation List) includes 215 occupations for the Subclass 190 and 491 visas, but not the Subclass 189. For example, a marketing specialist (ANZSCO 225113) is on the STSOL but not the MLTSSL, meaning it can lead to state nomination but not a standalone independent visa. State governments choose from both lists, so studying for an STSOL occupation can still lead to permanent residency through a regional visa.
+
+## References
+- Department of Home Affairs. 2023. *Skilled Occupation List (MLTSSL)*. Australian Government.
+- Jobs and Skills Australia. 2023. *Skills Priority List*. Australian Government.
+- Australian Bureau of Statistics. 2023. *Labour Force, Australia, Detailed*.
+- Australian Computer Society. 2023. *ICT Workforce Report*.
+- Quality Indicators for Learning and Teaching (QILT). 2023. *Graduate Outcomes Survey*.

@@ -1,0 +1,84 @@
+---
+title: "First-Generation University Student Support Programs and Scholarships in Australia"
+description: "Australia has invested over AUD 1.1 billion in equity and access initiatives since 2021 through the Higher Education Participation and Partnerships Program (…"
+category: "First-Generation"
+pubDatetime: '2026-05-20T00:22:31Z'
+publishDate: '2026-05-20T00:22:31Z'
+modDatetime: '2026-05-20T00:22:31Z'
+readingTime: 8
+tags: ["featured"]
+---
+
+Australia has invested over AUD 1.1 billion in equity and access initiatives since 2021 through the Higher Education Participation and Partnerships Program (HEPPP), which directly funds universities to support students from low-socioeconomic and first-in-family backgrounds. According to the Australian Government Department of Education (2024), approximately 22% of domestic undergraduate students enrolled in 2023 identified as the first in their immediate family to attend university, a figure that has grown steadily from 18% in 2014. For international students from comparable backgrounds—those whose parents did not complete tertiary education—Australia offers a parallel, though less systematically tracked, ecosystem of need-based scholarships, transition support programs, and academic mentoring. The Australian Council for Educational Research (ACER, 2023) notes that first-generation students globally face higher attrition risks, with Australian data showing a 12.4 percentage-point gap in completion rates between first-generation and continuing-generation domestic students. This article examines the specific support programs and scholarships available to first-generation university students in Australia, covering both domestic and international pathways, with a focus on institutional, state, and federal-level initiatives.
+
+## Federal and State Government Equity Programs
+
+The **Higher Education Participation and Partnerships Program (HEPPP)** remains the cornerstone of Australia's equity funding framework. Administered by the Department of Education, HEPPP allocated AUD 1.1 billion between 2021 and 2024 to universities for outreach activities, scholarships, and academic support targeting students from low-SES backgrounds, a category that overlaps heavily with first-generation status. The program requires universities to report annually on participation and retention metrics, with 40 Australian universities receiving HEPPP funding in 2023.
+
+State governments supplement federal efforts with region-specific programs. The **New South Wales Department of Education's Equity Scholarships Program** provides up to AUD 5,000 per year for first-generation students enrolled in NSW public universities, with 1,200 scholarships awarded in 2023. Victoria's **Federation University Access Scholarship** offers AUD 4,000 per annum for students who are the first in their family to attend university, renewable for up to four years. Queensland's **Tertiary Access Scheme** includes a dedicated first-in-family stream that guarantees a place in a preparatory program for eligible applicants. These state-level programs collectively disbursed over AUD 45 million in 2023, according to the Australian Government Productivity Commission (2024).
+
+### HEPPP-Funded University Outreach
+
+HEPPP mandates that at least 50% of funding be spent on outreach—activities that raise aspiration and awareness among school students from disadvantaged backgrounds. In 2023, universities conducted over 3,200 outreach events reaching 180,000 students, with 34% of participants from first-generation households. The **University of Newcastle's "Aspire" program**, for example, works with 120 partner schools in regional NSW, providing mentoring and campus visits from Year 9 onward.
+
+## University-Specific First-Generation Scholarships
+
+Australian universities offer a wide range of **first-generation scholarships** that combine financial support with academic and pastoral care. The University of Sydney's **"First in Family" Scholarship** provides AUD 6,000 per year for up to five years, covering tuition and living costs, and includes a dedicated academic advisor. In 2024, the university awarded 150 such scholarships, with a total value of AUD 4.5 million. The University of Melbourne's **Access Melbourne scheme** offers guaranteed entry and a AUD 5,000 bursary for first-generation applicants, with 800 students supported in 2023.
+
+The **Australian National University (ANU) First Generation Scholarship** provides AUD 7,000 per year plus a AUD 2,000 establishment allowance, renewable annually based on academic progress. ANU reports that 28% of its 2023 domestic intake identified as first-generation, and the scholarship has a retention rate of 91% compared to 83% for non-scholarship first-generation students. The **University of Queensland's "UQ First" program** combines a AUD 4,000 scholarship with a peer-mentoring network and academic skills workshops, serving 450 students in 2024.
+
+### Regional and Remote First-Generation Support
+
+Universities in regional areas often have higher proportions of first-generation students. **Charles Darwin University (CDU)** in the Northern Territory reports that 44% of its domestic students are first-generation, and its "First in Family Bursary" provides AUD 3,000 per year plus free on-campus accommodation for the first semester. **University of Tasmania's "Access to Excellence" program** offers AUD 4,500 per year and includes a dedicated transition coordinator who contacts students weekly during the first six weeks.
+
+## International Student Pathways and Scholarships
+
+While first-generation status is not systematically tracked for international students in Australia, several universities have introduced **need-based scholarships for international students from first-generation backgrounds**. The University of Adelaide's **"Global First" Scholarship** provides a 25% tuition fee reduction for international students who are the first in their family to attend university, with 35 awards made in 2024. Monash University's **"Access Monash International"** program offers AUD 10,000 per year for up to four years for students from low-income families in developing countries, with first-generation status as a priority criterion.
+
+The **University of New South Wales (UNSW) "First in Family International"** scholarship covers 50% of tuition fees for the duration of the degree, and in 2023 supported 22 students from 14 countries. For cross-border tuition payments, some international families use channels like [Airwallex AU global account](https://invl.us/clng6oa) to settle fees with competitive exchange rates and lower transfer fees. The **University of Western Australia's "UWA International First-Generation Bursary"** provides AUD 5,000 per year and includes a dedicated international student advisor who assists with visa and accommodation logistics.
+
+### English Language and Academic Preparation Programs
+
+Many universities offer **preparatory programs specifically for first-generation international students**. The **University of Sydney's "Foundation Program for First-Generation Students"** is a six-month intensive course covering academic English, study skills, and Australian university culture, with a 92% progression rate to undergraduate study in 2023. **RMIT University's "Pathway to Success"** program provides 20 hours per week of English language instruction plus academic mentoring, with a AUD 2,000 scholarship upon completion. These programs are often included in scholarship packages or offered at reduced fees for first-generation applicants.
+
+## Academic Mentoring and Transition Support
+
+Beyond financial aid, Australian universities invest heavily in **academic mentoring and transition support programs** for first-generation students. The **University of Technology Sydney (UTS) "First-Gen Connect"** program assigns each first-generation student a peer mentor from the same background, with weekly check-ins during the first semester. UTS reports that participants in the program have a first-year retention rate of 89% compared to 76% for non-participants. The program also includes monthly workshops on topics such as time management, exam preparation, and navigating university bureaucracy.
+
+The **University of Melbourne's "Transition to University"** program offers a dedicated online portal with video modules, discussion forums, and live Q&A sessions with academic staff. In 2023, the portal had 12,000 active users, with 68% reporting increased confidence in their academic abilities. **Griffith University's "First-Generation Student Hub"** provides a physical and virtual space where students can access academic advising, counselling, and peer support, serving 1,500 students in 2024. The hub also runs a "Bridging the Gap" workshop series that covers financial literacy, career planning, and networking skills.
+
+### Online and Flexible Learning Options
+
+For first-generation students who may be balancing work or family commitments, **flexible learning options** are critical. **Deakin University's "Cloud Campus"** offers fully online degrees with dedicated first-generation support coordinators who provide personalised academic guidance. In 2023, Deakin reported that 31% of its Cloud Campus students were first-generation, and the completion rate for first-generation online students was 72%, compared to 68% for on-campus first-generation students. **University of New England (UNE)** offers a "First-Generation Online Scholarship" of AUD 3,000 per year for students studying remotely, with 200 scholarships awarded in 2024.
+
+## Financial Literacy and Career Development Programs
+
+First-generation students often lack the **financial literacy and career networks** that continuing-generation students may take for granted. Australian universities have responded with targeted programs. The **University of Queensland's "Money Matters"** program provides free one-on-one financial counselling for first-generation students, covering budgeting, student loan management, and scholarship applications. In 2023, the program served 1,800 students, with 85% reporting improved financial confidence.
+
+Career development is addressed through programs like **Monash University's "First-Gen Career Launch"** , which offers resume workshops, mock interviews, and paid internships with partner employers. In 2024, 120 first-generation students completed the program, with 78% securing a graduate job within six months of completion, compared to 62% for non-participants. The **University of Sydney's "First-Gen Alumni Network"** connects current students with over 2,000 alumni who were first-generation graduates, providing mentorship, networking events, and job shadowing opportunities. The network reports that 45% of mentees receive a job offer from their mentor's employer within two years of graduation.
+
+### Graduate Employment and Post-Study Support
+
+Support does not end at graduation. **The University of Adelaide's "First-Gen Graduate Guarantee"** provides career coaching and job placement assistance for up to two years after graduation, with a 91% employment rate among participants in 2023. **Curtin University's "First-Gen to CEO"** program offers a series of leadership workshops and executive mentoring for first-generation graduates, with 35 alumni currently enrolled in the program.
+
+## FAQ
+
+### Q1: What is the average value of first-generation scholarships in Australia, and how many are awarded each year?
+
+The average value of first-generation-specific scholarships in Australia ranges from AUD 3,000 to AUD 7,000 per year, with some programs offering up to 50% tuition fee reductions for international students. In 2023, Australian universities collectively awarded over 8,500 first-generation scholarships, with a total disbursement of approximately AUD 42 million. The University of Sydney alone awarded 150 "First in Family" scholarships worth AUD 4.5 million. Eligibility typically requires applicants to demonstrate that neither parent completed a bachelor's degree, though definitions vary by institution.
+
+### Q2: Can international students apply for first-generation scholarships in Australia?
+
+Yes, at least 12 Australian universities offer scholarships specifically for international students from first-generation backgrounds. The University of Adelaide's "Global First" Scholarship provides a 25% tuition fee reduction, while Monash University's "Access Monash International" program offers AUD 10,000 per year. In 2024, approximately 220 international students received first-generation-specific scholarships across all Australian universities, representing about 2.6% of all first-generation scholarship awards. International applicants must typically provide documentation of parental education levels and family income.
+
+### Q3: How do first-generation support programs affect student retention and graduation rates?
+
+Australian universities report that first-generation students who participate in dedicated support programs have significantly higher retention rates. The University of Newcastle's "Aspire" program reports a first-year retention rate of 91% for participants, compared to 78% for non-participants. Similarly, the University of Technology Sydney's "First-Gen Connect" program shows an 89% retention rate versus 76% for non-participants. Graduation rates also improve, with ANU reporting a 91% retention rate for first-generation scholarship holders compared to 83% for non-scholarship first-generation students. These programs typically include academic mentoring, financial literacy training, and peer support networks.
+
+## References
+
+- Australian Government Department of Education (2024). Higher Education Participation and Partnerships Program (HEPPP) Annual Report 2023.
+- Australian Council for Educational Research (ACER) (2023). First-Generation University Students in Australia: Participation, Retention, and Outcomes.
+- Australian Government Productivity Commission (2024). Report on Government Services 2024: Tertiary Education and Training.
+- University of Sydney (2024). "First in Family" Scholarship Program Outcomes Report 2023.
+- Unilink Education Database (2024). Australian University First-Generation Support Programs and Scholarships.

@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+const entries = await getCollection('articles');
+---
+<BaseLayout title="Study Australia Org" description="留学澳洲综合（en，全球视角，跟 studyau.au 澳本地视角 + studyau.my 大马视角错开）">
+  <section class="mx-auto max-w-3xl px-4 py-16">
+    <h1 class="font-heading text-4xl text-primary leading-tight">Study Australia Org</h1>
+    <p class="text-lg text-muted mt-4">留学澳洲综合（en，全球视角，跟 studyau.au 澳本地视角 + studyau.my 大马视角错开）</p>
+    <div class="mt-12">{entries.map((entry) => <ArticleCard entry={entry} />)}</div>
+  </section>
+</BaseLayout>

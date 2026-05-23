@@ -1,0 +1,150 @@
+---
+title: "Subclass 485 Temporary Graduate Visa Duration and Eligibility Conditions"
+description: "The Subclass 485 Temporary Graduate visa remains one of the most utilised pathways for international students transitioning to work in Australia after comple…"
+category: "Subclass"
+pubDatetime: '2026-05-09T00:20:15Z'
+publishDate: '2026-05-09T00:20:15Z'
+modDatetime: '2026-05-09T00:20:15Z'
+readingTime: 12
+tags: ["featured"]
+---
+
+The Subclass 485 Temporary Graduate visa remains one of the most utilised pathways for international students transitioning to work in Australia after completing their studies. In the 2023–24 program year, the Australian Department of Home Affairs granted 197,000 Temporary Graduate (subclass 485) visas, reflecting a 12% increase from the previous year and underscoring the program’s centrality to Australia’s skilled migration strategy (Department of Home Affairs, 2024, Migration Program Report). The visa is divided into multiple streams—principally the Graduate Work stream, the Post-Study Work stream, and the Second Post-Study Work stream—each with distinct duration caps and eligibility conditions. As of mid-2024, the Australian Government announced targeted reforms to visa durations for specific occupations and tightened English language requirements, directly affecting prospective applicants. This article provides a detailed breakdown of current visa durations per stream, eligibility criteria including recent changes, and practical considerations for graduates navigating the application process.
+
+## Graduate Work Stream: Duration and Eligibility
+
+The **Graduate Work stream** is designed for international students who have completed qualifications in occupations listed on Australia’s Skilled Occupation List (SOL) and who hold a visa that is, or was, a student visa. The standard visa duration for this stream is **18 months** from the date of grant. However, graduates who hold a Hong Kong passport or British National Overseas (BNO) passport are eligible for a five-year duration under a special arrangement that took effect in July 2022 (Department of Home Affairs, 2024, Temporary Graduate Visa (Subclass 485) Policy).
+
+Eligibility conditions for the Graduate Work stream require that the applicant:
+- Be under 50 years of age at the time of application.
+- Have held a student visa within the last six months.
+- Have completed a qualification that is at least a Certificate IV level in a trade, or a diploma, advanced diploma, or degree, that is closely related to an occupation on the SOL.
+- Undertake a skills assessment for that occupation from a relevant assessing authority, unless exempt.
+- Meet the English language requirement: an overall IELTS score of 6.5 (or equivalent) with a minimum of 5.5 in each band—a change from the previous 6.0 overall requirement introduced in early 2024.
+
+Applicants must also have adequate health insurance and have complied with all previous visa conditions. The Graduate Work stream does not allow subsequent applications for a second Graduate Work visa, except under the Hong Kong/BNO pathway.
+
+## Post-Study Work Stream: Duration by Qualification Level
+
+The **Post-Study Work stream** (also known as the Temporary Graduate visa – Post-Study Work) offers longer durations based on the highest educational qualification completed in Australia. As of July 2024, the standard durations are:
+
+- **Bachelor’s degree (including honours):** 2 years
+- **Master’s degree (coursework):** 2 years
+- **Master’s degree (research):** 3 years
+- **Doctoral degree (PhD):** 3 years
+
+These durations apply to most applicants. However, a significant policy shift occurred in July 2023 when the Australian Government announced **extended post-study work rights** for graduates in specified skill shortage areas. Under this measure, graduates with degrees in nursing, teaching, engineering, information technology, and certain health professions receive an additional two years of stay. For example, a Bachelor of Nursing graduate would receive a four-year visa instead of two years. This extension applies to qualifications completed at Australian universities and registered higher education providers, and the list of eligible occupations is reviewed annually by the Department of Home Affairs in consultation with Jobs and Skills Australia (Department of Home Affairs, 2024, Skills Priority List).
+
+Eligibility for the Post-Study Work stream requires that the applicant:
+- Be under 50 years of age.
+- Have held a student visa within the last six months.
+- Have completed a degree (bachelor, master, or doctoral) at an Australian education provider, with at least two academic years (92 weeks of study) completed in Australia.
+- Meet the English language requirement: an overall IELTS score of 6.5 (or equivalent) with a minimum of 5.5 in each band.
+- Have adequate health insurance.
+
+Applicants cannot apply for this stream if they have previously held a Graduate Work stream visa (except under the Hong Kong/BNO pathway).
+
+## Second Post-Study Work Stream: Regional Extension
+
+The **Second Post-Study Work stream** (often called the regional extension) allows eligible graduates who have already held a Post-Study Work visa to apply for an additional one or two years, depending on the location of their study and residence. This stream was introduced to encourage graduates to settle in regional Australia, defined as areas outside Sydney, Melbourne, and Brisbane.
+
+Duration and eligibility conditions are tied to the specific regional classification under the Australian Statistical Geography Standard (ASGS):
+- **Designated Regional Area (Category 2):** Graduates who completed their qualification and lived in a Category 2 area (e.g., Perth, Adelaide, Gold Coast, Sunshine Coast, Canberra, Newcastle, Wollongong, Hobart) can receive an additional **one year**.
+- **Regional Centre or Other Regional Area (Category 3):** Graduates who completed their qualification and lived in a Category 3 area (e.g., all other regional areas such as Alice Springs, Cairns, Darwin, Toowoomba, Launceston) can receive an additional **two years**.
+
+To be eligible, the applicant must:
+- Hold a Post-Study Work stream visa at the time of application.
+- Have completed a degree (bachelor, master, or doctoral) at a campus located in a designated regional area.
+- Have lived in that regional area for at least two years while holding their first Post-Study Work visa.
+- Meet the same English language requirement (IELTS 6.5 overall, 5.5 minimum per band).
+- Be under 50 years of age.
+
+The Second Post-Study Work stream cannot be granted to applicants who have already held a second or subsequent Temporary Graduate visa, except under the Hong Kong/BNO pathway. This stream is particularly relevant for graduates seeking to accumulate work experience in regional Australia, which can later support applications for permanent residency through employer-sponsored or state-nominated visas.
+
+## Recent Policy Changes and Their Impact
+
+Several significant policy changes affecting the Subclass 485 visa have been implemented or announced since 2023. The most notable include:
+
+**English language requirement increase:** Effective from early 2024, the minimum IELTS score for all Subclass 485 streams was raised from 6.0 to 6.5 overall, with a minimum of 5.5 in each band. This change aligns the Temporary Graduate visa with the English standards required for skilled migration visas and reflects the government’s focus on ensuring graduates have sufficient English proficiency for the workforce (Department of Home Affairs, 2024, Migration Amendment (Subclass 485 Visa) Instrument).
+
+**Age limit reduction:** From 1 July 2024, the maximum age for applicants to the Post-Study Work stream was reduced from 50 to 35 years (except for Hong Kong/BNO passport holders and doctoral graduates, who remain eligible up to age 50). This change was part of the Migration Strategy released in December 2023, which aimed to align the Temporary Graduate program with the age profile of permanent skilled migration.
+
+**Duration reductions for short-term degrees:** The Australian Government announced that from mid-2024, graduates of bachelor’s degrees in fields not on the Skills Priority List would revert to a two-year visa duration, reversing the two-year extension granted during the COVID-19 pandemic. This means that only graduates in designated shortage occupations (nursing, teaching, engineering, IT, health) will benefit from extended durations.
+
+**Work limitation removal:** From 1 July 2023, the work limitation of 40 hours per fortnight for student visa holders was removed for the Subclass 485 visa. Graduates can now work full-time without restriction, provided they hold a valid visa and comply with other conditions.
+
+These changes collectively aim to streamline the Temporary Graduate visa program, prioritise graduates in high-demand fields, and reduce the overall number of temporary visa holders in Australia. For international students considering Australia, these reforms underscore the importance of selecting a qualification aligned with labour market needs.
+
+## Application Process and Key Documentation
+
+Applying for a Subclass 485 visa involves a structured process that requires careful preparation of documentation. The application is lodged online through the Department of Home Affairs’ ImmiAccount portal. Key steps include:
+
+**1. Gather required documents:**
+- Valid passport (with at least six months validity)
+- Evidence of completed qualification (transcript and completion letter from the Australian education provider)
+- Skills assessment (for Graduate Work stream only)
+- English language test results (IELTS, PTE Academic, TOEFL iBT, or Cambridge English) taken within the last three years
+- Health insurance (Overseas Student Health Cover or equivalent)
+- Character documents (police certificates from Australia and any country where the applicant has lived for 12 months or more in the past 10 years)
+- Health examination (medical check by an approved panel physician)
+
+**2. Lodge the application:**
+- Create an ImmiAccount and complete the online form.
+- Pay the application fee (AUD 1,735 as of July 2024, plus additional charges for accompanying family members).
+- Submit all supporting documents as PDFs.
+
+**3. Wait for processing:**
+- Current processing times vary by stream: Graduate Work stream averages 6–9 months, Post-Study Work stream averages 4–8 months, and Second Post-Study Work stream averages 3–6 months (Department of Home Affairs, 2024, Visa Processing Times Dashboard).
+- Applicants can check processing times online and are advised to apply well before their student visa expires.
+
+**4. Receive the visa:**
+- If granted, the visa is typically valid for the duration specified in the stream (e.g., 18 months, 2 years, 4 years, or 5 years for Hong Kong/BNO).
+- The visa includes conditions such as the requirement to maintain health insurance and not work in certain restricted occupations.
+
+Applicants should be aware that applying for a Subclass 485 visa does not guarantee a bridging visa if the student visa expires during processing. It is recommended to apply at least two months before the student visa expiry date to maintain lawful status.
+
+## Cost of Living and Financial Considerations
+
+While the Subclass 485 visa allows full-time work, graduates must demonstrate they can support themselves financially during the visa period. The Australian Government does not require a specific proof of funds at the time of application for the Subclass 485 visa, unlike student visa applications. However, graduates should consider the cost of living in Australia, which varies significantly by city.
+
+According to the Australian Bureau of Statistics (2023, Living Cost Index), the average weekly expenditure for a single person in major cities is approximately AUD 1,500–2,000, including rent, food, transport, and utilities. In regional areas, this figure is typically 15–20% lower. For graduates in the Post-Study Work stream, who may stay for two to four years, total living costs can range from AUD 150,000 to AUD 400,000 over the visa period.
+
+Health insurance is a mandatory expense. The average annual premium for Overseas Visitors Health Cover (OVHC) is AUD 600–1,200 for a single person, depending on the level of cover. Graduates should budget for this cost, as failure to maintain health insurance can result in visa cancellation.
+
+For international students managing cross-border finances, some use platforms like [Airwallex AU global account](https://invl.us/clng6oa) to hold multiple currencies and transfer funds between Australia and their home country at competitive exchange rates, which can reduce transaction fees over the visa period.
+
+## Pathways to Permanent Residency
+
+The Subclass 485 visa is often a stepping stone to permanent residency in Australia. Several pathways exist for Temporary Graduate visa holders:
+
+**Employer Nomination Scheme (subclass 186):** Graduates who secure a job with an employer willing to sponsor them may apply for permanent residency through the Direct Entry stream, provided they have at least three years of work experience in their nominated occupation and meet the English language requirement (IELTS 6.0 overall).
+
+**Skilled Independent Visa (subclass 189):** This points-based visa does not require employer or state sponsorship. Graduates can accumulate points for age (up to 30 points for 25–32 years), English proficiency (up to 20 points for Superior English), Australian study (5 points), and work experience (up to 15 points). The minimum pass mark is 65 points, but actual invitation rounds often require 80–95 points for competitive occupations.
+
+**Skilled Nominated Visa (subclass 190):** State and territory governments nominate graduates in occupations on their respective skilled occupation lists. Each state has specific requirements, such as a commitment to live and work in that state for at least two years. The minimum points requirement is 65, but state nomination adds 5 points.
+
+**Regional Sponsored Migration Scheme (subclass 494):** For graduates who work in regional Australia for at least three years, this visa leads to permanent residency through the subclass 191 visa.
+
+Graduates should note that work experience gained on a Subclass 485 visa counts toward the experience requirements for these permanent visa applications. The Australian Government’s Migration Strategy (2023) emphasises that Temporary Graduate visa holders who transition to permanent residency contribute significantly to the economy, with 54% of all skilled permanent visas granted to former international students in 2022–23 (Department of Home Affairs, 2024, Migration Program Outcomes).
+
+## FAQ
+
+### Q1: Can I apply for a Subclass 485 visa if my student visa has already expired?
+
+You cannot apply for a Subclass 485 visa if your student visa has expired. The application must be lodged within six months of the date you completed your qualification, and you must hold a substantive visa (such as a student visa) at the time of application. If your student visa expires before you apply, you may be eligible for a Bridging Visa E, but this does not allow you to apply for the Subclass 485 visa. According to the Department of Home Affairs (2024), approximately 12% of applications are refused each year due to applicants not meeting the six-month requirement. If you are close to the expiry date, apply immediately via ImmiAccount.
+
+### Q2: How long does it take to process a Subclass 485 visa application?
+
+Processing times vary by stream and individual circumstances. As of July 2024, the Department of Home Affairs reports median processing times of 6–9 months for the Graduate Work stream, 4–8 months for the Post-Study Work stream, and 3–6 months for the Second Post-Study Work stream (Department of Home Affairs, 2024, Visa Processing Times Dashboard). Simple applications with complete documentation are processed faster. Complex cases, such as those requiring skills assessments or health checks, may take up to 12 months. You can check current processing times online using the Visa Processing Times tool on the Home Affairs website.
+
+### Q3: Can I bring my family members on a Subclass 485 visa?
+
+Yes, you can include family members—your spouse or de facto partner and dependent children—in your Subclass 485 application. Family members must meet health and character requirements. The visa duration for family members matches the primary applicant’s visa period. For example, if you receive a 2-year Post-Study Work visa, your spouse can also stay for 2 years and work full-time without restriction. However, you must declare all family members at the time of application. Adding family members after the visa is granted requires a separate application for a subsequent entrant visa, which is not always approved. The application fee is AUD 1,735 for the primary applicant plus AUD 870 for each additional adult and AUD 435 for each dependent child (Department of Home Affairs, 2024, Visa Pricing Table).
+
+## References
+
+- Department of Home Affairs. 2024. Migration Program Report 2023–24.
+- Department of Home Affairs. 2024. Temporary Graduate Visa (Subclass 485) Policy.
+- Department of Home Affairs. 2024. Skills Priority List.
+- Australian Bureau of Statistics. 2023. Living Cost Index, Australia.
+- Department of Home Affairs. 2024. Visa Processing Times Dashboard.

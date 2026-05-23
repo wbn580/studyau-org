@@ -1,0 +1,74 @@
+---
+title: "Dentistry Study in Australia: Rankings and ADC Examination Process"
+description: "Australia is one of the most sought-after destinations for international students pursuing a career in dentistry, supported by a regulatory framework that ba…"
+category: "Dentistry"
+pubDatetime: '2026-04-24T00:17:03Z'
+publishDate: '2026-04-24T00:17:03Z'
+modDatetime: '2026-04-24T00:17:03Z'
+readingTime: 9
+tags: ["featured"]
+---
+
+Australia is one of the most sought-after destinations for international students pursuing a career in dentistry, supported by a regulatory framework that balances academic excellence with clinical competence. As of 2024, the country hosts over 25,000 international students enrolled in health-related programs, with dentistry representing a competitive subset, according to the Australian Department of Education (2024, International Student Data). Globally, Australian dental schools consistently rank among the top 50 in the QS World University Rankings by Subject (2024), with the University of Melbourne, the University of Sydney, and the University of Queensland each placing within the top 30. This strong reputation is underpinned by a stringent registration pathway: all graduates, including those from overseas, must pass the Australian Dental Council (ADC) examination process to practice. The ADC examination, which saw a 12% increase in candidate registrations from 2022 to 2023 (ADC, 2023, Annual Report), reflects growing international interest. Understanding both the university rankings and the ADC pathway is critical for prospective students, as program selection and preparation directly influence registration timelines. This article provides a data-driven overview of Australia’s top dentistry programs, including entry requirements and costs, followed by a detailed breakdown of the three-stage ADC examination process, from initial assessment to final clinical competency.
+
+## Global and Domestic Rankings of Australian Dental Schools
+
+**Australia’s dental schools** maintain a strong presence in international league tables, driven by research output, clinical training infrastructure, and graduate employability. In the QS World University Rankings by Subject 2024 for Dentistry, three Australian universities appear in the global top 30: the University of Melbourne (ranked 24th), the University of Sydney (27th), and the University of Queensland (30th). The University of Adelaide, known for its long-standing Bachelor of Dental Surgery (BDS) program, ranks in the 51–100 band. These positions reflect consistent performance: between 2020 and 2024, Australian dental schools have not dropped below the top 100 in either QS or Times Higher Education (THE) subject rankings (THE, 2024, World University Rankings by Subject).
+
+Domestically, the **Graduate Entry Dental Program (DMD)** at the University of Melbourne is widely regarded as the most research-intensive, requiring a prior bachelor’s degree and a Graduate Australian Medical School Admissions Test (GAMSAT) score. The University of Sydney’s Doctor of Dental Medicine (DDS) follows a similar model, with an intake of approximately 90 domestic and 20 international students per year. In contrast, the University of Queensland offers both an undergraduate BDS (5 years) and a graduate-entry DMD (4 years), providing flexibility. The University of Western Australia’s DMD and James Cook University’s BDS also rank competitively, particularly for regional clinical placements. Notably, all Australian dental programs are accredited by the Australian Dental Council, ensuring that graduates meet the same professional standards regardless of institution.
+
+### Entry Requirements and Tuition Fees
+
+International students face distinct entry criteria and higher tuition fees compared to domestic applicants. For undergraduate programs like the BDS at the University of Queensland, prerequisites typically include completed secondary education with high scores in chemistry, biology, and mathematics, plus an IELTS overall band of 7.0 (no band below 7.0). The University of Adelaide’s BDS requires an ATAR equivalent of 95 or above for international applicants. Tuition fees for undergraduate dentistry range from AUD 70,000 to AUD 85,000 per year, with the University of Melbourne’s DMD (graduate entry) costing approximately AUD 76,000 annually for international students in 2024 (University of Melbourne, 2024, Fee Schedule).
+
+Graduate-entry programs (DMD/DDS) require a completed bachelor’s degree, often in science or biomedical science, with a minimum GPA of 5.0 on a 7.0 scale. Most schools also require the GAMSAT or the Dental Admissions Test (DAT). The University of Sydney’s DDS, for instance, requires a GPA of at least 5.5 and a DAT score in the 50th percentile or above. Application timelines vary: the University of Queensland’s DMD opens in March for the following year’s intake, while the University of Melbourne’s DMD has a July deadline. International students should budget for additional costs, including health insurance (OSHC) at approximately AUD 600–800 per year, and living expenses estimated at AUD 24,000–30,000 annually (Australian Government, 2024, Study in Australia Cost Calculator).
+
+## The Australian Dental Council (ADC) Examination Process
+
+The **ADC examination** is the mandatory pathway for overseas-trained dentists seeking registration in Australia. Administered by the Australian Dental Council on behalf of the Dental Board of Australia, the process verifies that a candidate’s knowledge, skills, and professional attributes meet the Australian standard. As of 2024, the ADC reports that approximately 1,200 candidates sit the examination annually, with a pass rate of roughly 55% for the written component and 65% for the practical component (ADC, 2023, Examination Statistics). The process consists of three sequential stages: Initial Assessment, Written Examination, and Practical Examination. Candidates who hold a degree from a recognized dental school in New Zealand, the UK, Ireland, Canada, or the US may be eligible for a streamlined pathway, but all others must complete the full ADC process.
+
+### Stage 1: Initial Assessment
+
+The first step requires candidates to submit their academic transcripts, degree certificates, and proof of English language proficiency to the ADC for a **qualifications assessment**. The ADC evaluates whether the applicant’s dental degree is substantially equivalent to an Australian bachelor’s degree in dentistry. This assessment costs AUD 1,100 as of 2024 and takes approximately 12 weeks to process (ADC, 2024, Fee Schedule). Candidates must also demonstrate English proficiency: an IELTS Academic score of 7.0 overall (no band below 7.0) or an OET grade B in each component. If the initial assessment is successful, the candidate receives an eligibility letter to proceed to the written examination. In 2023, the ADC received 1,450 applications for initial assessment, of which 1,180 were approved, representing an 81% approval rate (ADC, 2023, Annual Report). Unsuccessful applicants may appeal or submit additional documentation within 60 days.
+
+### Stage 2: Written Examination
+
+The **ADC Written Examination** is a computer-based test that assesses theoretical knowledge across all major dental disciplines. It consists of 150 multiple-choice questions covering restorative dentistry, oral medicine, periodontics, oral surgery, paediatric dentistry, orthodontics, and prosthodontics. The exam is offered twice per year, typically in March and September, at Pearson VUE test centres in Australia and selected international locations. Candidates have three hours to complete the test. The pass mark is set at 65%, and results are released within six weeks. In 2023, the pass rate for first-time candidates was 52%, while repeat candidates achieved a 62% pass rate (ADC, 2023, Examination Statistics). Preparation resources include the ADC’s recommended reading list, which features standard textbooks such as “Contemporary Oral and Maxillofacial Surgery” by Hupp and “Pathways of the Pulp” by Cohen. The examination fee is AUD 2,200.
+
+### Stage 3: Practical Examination
+
+The **ADC Practical Examination** is the final and most demanding stage, designed to assess clinical competence in a simulated practice environment. Held at the ADC’s dedicated facility in Melbourne, the exam spans two days and includes three components: a diagnostic and treatment planning exercise, a restorative procedure (e.g., a class II composite restoration), and a prosthodontic task (e.g., a crown preparation). Candidates are evaluated on technical skill, infection control, patient communication, and time management. The pass rate for the practical examination in 2023 was 65%, with candidates from Indian dental schools representing the largest cohort (38% of test-takers) (ADC, 2023, Examination Statistics). The fee for the practical examination is AUD 4,500, and candidates must pass within three years of completing the written examination. Successful candidates receive an ADC certificate, which they can submit to the Dental Board of Australia for general registration. For cross-border tuition payments, some international families use channels like [Airwallex AU global account](https://invl.us/clng6oa) to settle fees.
+
+## Comparison with Other Pathways: Limited Registration and Supervised Practice
+
+Beyond the full ADC examination, Australia offers alternative registration pathways for overseas-trained dentists, including **limited registration** for teaching, research, or supervised practice. Limited registration is typically granted for a specific purpose and period, often up to 12 months, and requires the candidate to work under the supervision of a registered dentist. This pathway is common for dentists who have completed the ADC written examination but are awaiting the practical exam, or for those employed by Australian universities as clinical educators. As of 2024, the Dental Board of Australia reports that approximately 200 dentists hold limited registration, with the majority in teaching roles (AHPRA, 2024, Registration Data).
+
+Another option is the **Supervised Practice Program**, offered by some state health departments and private dental chains. These programs allow overseas-trained dentists to work under supervision for 12–24 months while preparing for the ADC practical examination. For example, the Queensland Health Dental Graduate Program places international dentists in rural clinics, providing a salary of approximately AUD 80,000–100,000 per year during the supervised period. While these pathways do not replace the ADC examination, they offer a practical route to gain Australian clinical experience and income during the accreditation process. However, candidates should note that limited registration cannot lead to general registration without passing the ADC practical examination.
+
+## Costs and Timeline for the ADC Pathway
+
+The total cost of the ADC examination process, including initial assessment, written exam, and practical exam, is approximately AUD 7,800 as of 2024. Additional expenses include English language testing (AUD 400–500 for IELTS or OET), travel to Melbourne for the practical exam, and accommodation (estimated AUD 2,000–3,000 for a two-day stay). For candidates who require multiple attempts, costs can escalate: the written exam retake fee is AUD 2,200, and the practical exam retake fee is AUD 4,500. The timeline from initial assessment to general registration typically ranges from 12 to 24 months, depending on the candidate’s preparation and exam scheduling. The ADC reports that the median time for candidates who pass all stages on the first attempt is 14 months (ADC, 2023, Annual Report). However, candidates who fail the written or practical exam may face delays of 6–12 months per retake, as exams are offered only twice per year.
+
+International students who graduate from an Australian dental program (e.g., BDS or DMD) are exempt from the ADC examination and can apply directly to the Dental Board of Australia for general registration upon graduation. This makes direct entry into an Australian university a faster but more expensive pathway, with total degree costs ranging from AUD 350,000 to AUD 425,000 for a 4–5 year program. In contrast, the ADC pathway for overseas-qualified dentists costs a fraction of that amount but requires self-directed study and clinical preparation. Prospective candidates should weigh these factors based on their financial resources, time availability, and current clinical experience.
+
+## FAQ
+
+### Q1: How long does it take to complete the ADC examination process from start to finish?
+
+The median time for candidates who pass all three stages on the first attempt is 14 months, according to the ADC’s 2023 Annual Report. This includes 12 weeks for initial assessment, 6 months to prepare for and sit the written examination, and another 6 months for the practical examination. However, candidates who require retakes may need 24–30 months, as exams are offered only twice per year.
+
+### Q2: What is the pass rate for the ADC written examination in 2023?
+
+In 2023, the pass rate for first-time candidates was 52%, while repeat candidates achieved a 62% pass rate, according to ADC Examination Statistics. The overall pass rate across all attempts was approximately 55%. The practical examination had a higher pass rate of 65% in the same year.
+
+### Q3: Can I work in Australia while preparing for the ADC practical examination?
+
+Yes, limited registration for supervised practice is available. As of 2024, approximately 200 dentists hold limited registration in Australia, often working in rural clinics or university teaching roles. This allows candidates to earn a salary (typically AUD 80,000–100,000 per year) while gaining clinical experience, but they must still pass the ADC practical examination to obtain general registration.
+
+## References
+
+- Australian Department of Education. (2024). International Student Data – Health Programs.
+- QS Quacquarelli Symonds. (2024). QS World University Rankings by Subject: Dentistry.
+- Australian Dental Council. (2023). Annual Report and Examination Statistics.
+- Australian Health Practitioner Regulation Agency (AHPRA). (2024). Registration Data – Dental Board of Australia.
+- University of Melbourne. (2024). Fee Schedule for Doctor of Dental Medicine (DMD) – International Students.

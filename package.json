@@ -13,8 +13,12 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
+    "@fontsource/asap": "^5.2.9",
+    "@fontsource/inconsolata": "^5.2.8",
     "@fontsource/inter": "^5.2.8",
     "@fontsource/jetbrains-mono": "^5.2.8",
+    "@fontsource/maple-mono": "^5.2.6",
+    "@fontsource/vesper-libre": "^5.2.8",
     "@tailwindcss/vite": "^4.3.0",
     "astro": "^6.3.3",
     "wrangler": "^4.92.0"

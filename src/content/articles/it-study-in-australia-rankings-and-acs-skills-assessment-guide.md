@@ -1,0 +1,106 @@
+---
+title: "IT Study in Australia: Rankings and ACS Skills Assessment Guide"
+description: "Australia enrolled 1,217,000 international students across all sectors in 2023, with information technology (IT) representing approximately 15% of higher edu…"
+category: "IT"
+pubDatetime: '2026-04-23T00:16:58Z'
+publishDate: '2026-04-23T00:16:58Z'
+modDatetime: '2026-04-23T00:16:58Z'
+readingTime: 11
+tags: ["featured"]
+---
+
+Australia enrolled 1,217,000 international students across all sectors in 2023, with information technology (IT) representing approximately 15% of higher education enrolments — roughly 182,550 students — according to the Department of Education’s International Student Data 2023. The country hosts seven universities in the global top 100 for computer science and information systems (QS World University Rankings 2025), making it the third most-represented nation after the United States and China. This article examines the institutional rankings that define Australia’s IT education landscape and the compulsory skills assessment pathway managed by the Australian Computer Society (ACS), which every graduate must navigate to qualify for skilled migration under the subclass 189, 190, or 491 visa programmes. Understanding both the academic tier and the regulatory gate is essential: a degree from a Group 1 or Group 2 ACS-accredited program can reduce the professional-year requirement, while a non-accredited degree may add two years of skilled employment before assessment eligibility. The Department of Home Affairs’ 2024-25 Migration Program planning level allocates 132,200 places for skilled stream visas, with ICT occupations consistently among the top ten nominated occupations in the December 2023 SkillSelect invitation rounds. This guide provides the ranking data, accreditation categories, and step-by-step assessment criteria — from the 2013 Australian and New Zealand Standard Classification of Occupations (ANZSCO) code mapping to the 12-month professional year alternative — that prospective students and graduates need for a structured migration pathway.
+
+## University Rankings for IT in Australia
+
+Australia’s **IT university rankings** place seven institutions inside the QS World University Rankings top 100 for Computer Science and Information Systems 2025. The University of Melbourne leads at number 43 globally, followed by the University of Sydney (56th), Australian National University (63rd), University of New South Wales (64th), University of Queensland (75th), Monash University (78th), and the University of Technology Sydney (88th). In the Times Higher Education (THE) World University Rankings 2024 by subject — Computer Science — the same group appears with minor positional shifts: UNSW ranks 54th, Monash 67th, and UTS 89th globally.
+
+### QS Subject Rankings 2025: Top Australian IT Schools
+
+The QS 2025 ranking methodology weighs academic reputation (40%), employer reputation (30%), faculty-student ratio (15%), citations per paper (10%), and international faculty/student ratios (5%). For IT specifically, employer reputation carries heavier weight than in broad university rankings because industry demand for coding, cybersecurity, and data science graduates directly influences survey responses. University of Melbourne scored 82.4 out of 100 overall; its employer reputation score was 89.1, indicating strong industry linkage. University of Technology Sydney, while ranked 88th overall, achieved an employer reputation score of 83.7 — higher than several Group of Eight peers — reflecting its co-op and internship integration model.
+
+### THE Computer Science Rankings 2024
+
+The THE 2024 Computer Science ranking employs a different weight set: teaching (28%), research environment (29%), research quality (30%), industry income (4%), and international outlook (9%). Under this methodology, University of New South Wales ranks 54th globally, Monash University 67th, and the University of Technology Sydney 89th. Notably, the University of Queensland outperforms its QS position under THE metrics, ranking 72nd in computer science due to higher research quality scores (citation impact per paper). The THE ranking includes 1,371 universities worldwide in 2024, up from 974 in 2022, reflecting the global expansion of computer science departments.
+
+## ACS Skills Assessment: The Core Pathway
+
+The **ACS skills assessment** is the mandatory first step for any IT graduate seeking a skilled visa subclass 189, 190, 489, or 491. The Australian Computer Society, designated by the Department of Home Affairs as the assessing authority for ICT occupations, processes approximately 18,000–22,000 applications annually (ACS Annual Report 2022-23). The assessment determines whether an applicant’s qualifications and experience match an ANZSCO occupation code at the skill level required — typically bachelor’s degree or higher for most ICT roles.
+
+### Assessment Categories and Pathways
+
+The ACS offers four assessment pathways: Temporary Graduate (485 skills assessment), Post-Australian Study (for graduates of Australian IT degrees), Skills (for overseas-qualified applicants), and Recognition of Prior Learning (RPL — for applicants without formal ICT qualifications). The Post-Australian Study pathway is the most relevant for international students who complete an Australian IT degree. It requires an Australian bachelor’s degree or higher with at least 65% ICT content in the course, plus one year of closely related skilled employment or completion of the Professional Year Program. The Professional Year Program is a 44-week structured training combining formal learning and a 12-week internship, offered by three providers: ACS, Navitas, and Education Centre of Australia.
+
+### ANZSCO Code Mapping and Skill Level
+
+Each ICT occupation maps to a specific ANZSCO code. For example, ICT Business Analyst maps to 261111 (skill level 1 — bachelor’s degree or higher), Software Engineer to 261313, and ICT Project Manager to 135112. The ACS assesses against the ANZSCO definition, not the job title. A graduate with a degree in Information Systems may apply for ICT Business Analyst (261111) if their coursework covers business process modelling, requirements engineering, and database design. The assessment outcome letter specifies the ANZSCO code, the date of the assessment, and whether the applicant meets the skill requirement. The letter is valid for three years from the date of issue for visa purposes.
+
+## Accreditation Levels: Group 1, Group 2, and Non-Accredited
+
+**ACS accreditation levels** directly affect the skilled migration points test and the Professional Year requirement. The ACS classifies Australian IT degrees into three groups based on the proportion of ICT content and the year of accreditation. Group 1 degrees — typically bachelor’s degrees with at least 65% ICT content — require one year of skilled employment or the Professional Year. Group 2 degrees — usually graduate diplomas or master’s degrees with 50–65% ICT content — require two years of skilled employment or the Professional Year. Non-accredited degrees require four years of skilled employment and a bachelor’s degree or higher.
+
+### Group 1 Degrees: Direct Pathway
+
+Group 1 degrees are the most advantageous for migration. A student who completes a Group 1 bachelor’s degree (e.g., Bachelor of Computer Science at University of Melbourne, Bachelor of Software Engineering at UNSW) needs only one year of closely related skilled employment or the Professional Year to satisfy the ACS assessment requirement. The ACS maintains a searchable database of accredited programs on its website, updated annually. As of March 2024, 147 bachelor’s programs at Australian universities hold Group 1 status, spanning 38 institutions.
+
+### Group 2 Degrees and the Professional Year
+
+Group 2 degrees include many master’s-level programs. For example, a Master of Information Technology from the University of Sydney (2 years, 96 credit points) typically contains 60–65% ICT content, placing it in Group 2. Graduates need two years of skilled employment or the Professional Year. The Professional Year Program costs approximately AUD 12,000–15,000 and runs for 44 weeks. Completing it also adds five points to the skilled migration points test. For students who cannot secure employment immediately, the Professional Year is a structured alternative that counts as one year of experience toward the assessment requirement.
+
+## Professional Year Program for IT Graduates
+
+The **Professional Year Program** (PYP) is a 44-week training course designed for international graduates of Australian IT degrees to gain workplace skills and meet the ACS assessment requirement. Three providers deliver the program: ACS (through its subsidiary, ACS Professional Year), Navitas Professional, and Education Centre of Australia (ECA). The program comprises 32 weeks of formal classroom training (covering Australian workplace culture, communication, and business writing) followed by a 12-week internship with an Australian employer. For cross-border tuition payments, some international families use channels like [Airwallex AU global account](https://invl.us/clng6oa) to settle fees without incurring high bank exchange margins.
+
+### Eligibility and Points Benefit
+
+To enrol, a graduate must hold a completed Australian bachelor’s degree or higher in an ICT discipline, have a current or lapsed Temporary Graduate visa (subclass 485) or a Bridging Visa A/B, and achieve an IELTS score of 6.0 overall (minimum 6.0 in each band). The program awards five points on the skilled migration points test, which can be decisive for applicants scoring 65–70 points who need to reach the 85-point threshold for a subclass 189 invitation. In the December 2023 SkillSelect round, the lowest points score invited for ICT Business Analyst was 85 — five points above the base pass mark.
+
+### Internship Outcomes and Employment Rates
+
+According to the ACS Professional Year 2022-23 Annual Report, 78% of graduates secured employment within three months of completing the internship component. The most common internship placements are in software development (34%), IT support (22%), and data analytics (18%). Internship hosts range from small-to-medium enterprises (55%) to large corporations (30%) and government agencies (15%). The program does not guarantee a job, but the internship often leads to a permanent offer — 42% of graduates in the 2022 cohort received a full-time offer from their host organisation within six months.
+
+## Skilled Migration Points Test and IT Occupations
+
+The **skilled migration points test** awards points across seven categories: age, English ability, skilled employment, overseas employment, educational qualification, Australian study, and specialist education. For IT graduates, the maximum points achievable are 95–100, depending on age and English proficiency. The Department of Home Affairs’ SkillSelect system invites the highest-scoring applicants in each occupation group, with ICT occupations consistently requiring 85–95 points in recent rounds (SkillSelect Invitation Round Data, December 2023).
+
+### Points Breakdown for IT Graduates
+
+A typical IT graduate aged 25–32 (30 points), with competent English (20 points for IELTS 7.0), a bachelor’s degree (15 points), Australian study (5 points), and one year of skilled employment (5 points) scores 75 points. Adding the Professional Year (5 points) and specialist education in ICT (10 points for a master’s degree) brings the total to 90 points — above the 85-point threshold for most ICT occupations. For applicants without the Professional Year, achieving 85 points requires superior English (IELTS 8.0 — 20 points), a master’s degree (15 points), and five years of overseas employment (15 points).
+
+### Occupation Ceilings and Invitation Rounds
+
+Each occupation has a ceiling — the maximum number of invitations issued per program year. For 2024-25, the ceiling for Software Engineer (261313) is 3,000, ICT Business Analyst (261111) is 1,500, and Computer Network Professional (263111) is 1,200. In the December 2023 round, 500 invitations were issued for Software Engineer, 300 for ICT Business Analyst, and 200 for Computer Network Professional. The Department of Home Affairs publishes monthly invitation data, allowing applicants to track demand and adjust their strategy — for example, applying for state nomination (subclass 190) if the subclass 189 ceiling for their occupation is reached early.
+
+## State Nomination Opportunities for IT Graduates
+
+State nomination visas (subclass 190 and 491) offer an alternative pathway for IT graduates who cannot achieve the points threshold for a subclass 189 invitation. Each state and territory maintains its own occupation list and nomination criteria. **IT state nomination** lists vary significantly — for example, New South Wales includes ICT Business Analyst and Software Engineer on its 2023-24 Skilled Occupation List, while Tasmania prioritises ICT Project Manager and Database Administrator.
+
+### New South Wales and Victoria
+
+New South Wales (NSW) allocated 2,650 nomination places for subclass 190 in 2023-24, with ICT occupations receiving approximately 15% of nominations. The NSW nomination criteria require an EOI score of at least 85 for ICT occupations, with preference for applicants with skilled employment in NSW. Victoria’s 2023-24 program prioritises health and education but also includes ICT occupations under its STEMM (Science, Technology, Engineering, Mathematics, and Medicine) target sector. Victoria nominated 1,500 ICT applicants for subclass 190 in 2023-24, with the lowest invited score at 80 points.
+
+### South Australia and Western Australia
+
+South Australia offers a dedicated Graduate Stream for international graduates of SA universities, requiring no work experience for subclass 491 nomination if the degree is in a critical skill occupation. ICT occupations classified as critical in 2023-24 include Software Engineer, ICT Security Specialist, and Data Scientist. Western Australia’s Graduate Stream requires a Western Australian bachelor’s degree or higher and a six-month employment contract in the nominated occupation. In the November 2023 round, Western Australia invited 200 ICT graduates for subclass 190 with a minimum score of 70 points — the lowest threshold among all states for ICT occupations.
+
+## FAQ
+
+### Q1: How long does the ACS skills assessment take, and what is the current processing time?
+
+The ACS standard processing time for the Post-Australian Study pathway is 8–12 weeks from the date of lodgement, as stated in the ACS Skills Assessment Guidelines 2024. Applicants who submit incomplete documentation — missing transcripts, incomplete course descriptions, or unsigned employment letters — can expect delays of 4–6 additional weeks. The ACS offers a priority processing service for an additional AUD 300, reducing the timeline to 15 business days. In 2022-23, the ACS processed 19,847 applications, with 78% completed within the standard timeframe.
+
+### Q2: What is the minimum IELTS score required for the ACS Professional Year Program?
+
+The ACS Professional Year Program requires an IELTS Academic or General Training score of 6.0 overall, with no band below 6.0. This is lower than the skilled migration points test requirement for competent English (IELTS 6.0 overall, minimum 6.0 per band) but higher than the Temporary Graduate visa (subclass 485) English requirement of IELTS 6.0 overall, minimum 5.0 per band. Applicants who hold a passport from the UK, USA, Canada, New Zealand, or Ireland are exempt from the English test requirement. The Professional Year provider may accept a PTE Academic score of 50 overall and 50 in each communicative skill as an alternative.
+
+### Q3: Can I apply for a skilled visa without completing the Professional Year if I have work experience?
+
+Yes, the ACS accepts one year of closely related skilled employment as an alternative to the Professional Year for Group 1 degree holders, and two years for Group 2 degree holders. The employment must be full-time (minimum 20 hours per week) and in a role that matches the ANZSCO occupation code for which the applicant seeks assessment. The ACS requires a detailed employment reference letter on company letterhead, signed by a supervisor or HR manager, describing the duties performed and the period of employment. Part-time work can be calculated pro-rata — for example, two years of part-time work at 20 hours per week equates to one year of full-time experience for assessment purposes.
+
+## References
+
+- Department of Education, Australian Government. 2023. International Student Data 2023 — Monthly Summary.
+- QS Quacquarelli Symonds. 2025. QS World University Rankings by Subject: Computer Science and Information Systems.
+- Times Higher Education. 2024. World University Rankings 2024 by Subject: Computer Science.
+- Australian Computer Society. 2023. ACS Annual Report 2022-23.
+- Department of Home Affairs, Australian Government. 2024. Migration Program Planning Levels 2024-25 — SkillSelect Invitation Round Data, December 2023.

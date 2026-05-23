@@ -1,0 +1,82 @@
+---
+title: "Subclass 189 Skilled Independent Visa Points Table Explained for Graduates"
+description: "The Subclass 189 Skilled Independent Visa is one of Australia’s most sought-after permanent residency pathways for international graduates, operating entirel…"
+category: "Subclass"
+pubDatetime: '2026-05-08T00:20:02Z'
+publishDate: '2026-05-08T00:20:02Z'
+modDatetime: '2026-05-08T00:20:02Z'
+readingTime: 9
+tags: ["featured"]
+---
+
+The Subclass 189 Skilled Independent Visa is one of Australia’s most sought-after permanent residency pathways for international graduates, operating entirely on a merit-based points system without requiring state or employer sponsorship. For the 2024–25 program year, the Australian Department of Home Affairs allocated 16,900 places to the Skilled Independent category, reflecting a 21.6% increase from the 13,900 places in 2023–24 (Department of Home Affairs, 2024–25 Migration Program Planning Levels). Applicants must score a minimum of 65 points to lodge an Expression of Interest (EOI), but the actual invitation cut-off for many skilled occupations regularly exceeds 85 to 90 points, as reported in the Department’s SkillSelect invitation round data. This guide breaks down each points category—age, English ability, skilled employment, qualifications, and specialist credentials—to help graduates calculate their likely score and identify the most effective ways to improve it.
+
+## Age Points
+
+**Age** is the first and most straightforward points category on the Subclass 189 matrix. Applicants receive points based on their age at the time of invitation. The maximum allocation of 30 points is awarded to those aged between 25 and 32 years inclusive. Points decline in stepped increments for older applicants: 25 points for ages 18–24 and 33–39, 15 points for ages 40–44, and zero points for applicants aged 45 or over at the time of invitation (Department of Home Affairs, SkillSelect Points Test Guidelines, 2024).
+
+For graduates completing a bachelor’s or master’s degree in Australia, the typical age range falls between 22 and 30, placing most in the 25–32 bracket that yields the full 30 points. A graduate who finishes a three-year bachelor’s degree at age 21 would receive 25 points under the 18–24 category, while a graduate completing a two-year master’s at age 24 could turn 25 before lodging the EOI, thereby qualifying for the 30-point tier. Given that a single year can mean a 5-point difference, graduates should time their EOI submission carefully—lodging as close to their 25th birthday as possible if they are currently 24.
+
+**Age points cannot be improved** beyond the maximum 30 for those already in the 25–32 band. For graduates aged 33 or older, the only way to offset the lost points is through other categories such as skilled employment or specialist qualifications.
+
+## English Language Ability
+
+**English language ability** contributes up to 20 points under the Subclass 189 system, based on scores from approved tests including IELTS, PTE Academic, TOEFL iBT, and Cambridge C1 Advanced. Applicants must achieve at least Competent English (IELTS 6.0 in each band) to meet the base visa requirement, but this score yields zero points. Proficient English (IELTS 7.0 in each band) awards 10 points, and Superior English (IELTS 8.0 in each band) awards the full 20 points (Department of Home Affairs, Points Table for Skilled Migration, 2024).
+
+For graduates who have studied in Australia for at least two years, English levels are typically strong, but the jump from 10 to 20 points can be decisive. In the August 2024 invitation round, the minimum points score for Accountants (General) was 95, meaning that a graduate with 10 English points would need to compensate with additional employment or specialist qualifications. Achieving Superior English effectively adds the equivalent of two years of skilled employment in points. Test preparation for PTE Academic or IELTS can yield results within 4–8 weeks, making this one of the fastest levers for points improvement.
+
+Graduates should note that test results are valid for three years from the test date. A PTE Academic score of 79 or above in each component qualifies as Superior English. The Department accepts combined scores across multiple test sittings only if each sitting meets the minimum band for the claimed level.
+
+## Skilled Employment Experience
+
+**Skilled employment experience** is the most variable points category, rewarding both Australian and overseas work history in a skilled occupation closely related to the applicant’s nominated occupation. Points are awarded in bands: 5 points for 1–3 years of overseas experience, 10 points for 3–5 years, and 15 points for 5–8 years. Australian skilled employment offers higher returns: 5 points for 1–3 years, 10 points for 3–5 years, 15 points for 5–8 years, and 20 points for 8–10 years (Department of Home Affairs, Points Table for Skilled Migration, 2024).
+
+For recent graduates entering the workforce, accumulating 1–3 years of Australian skilled employment post-study can yield 5 points, which may be sufficient to reach the 65-point threshold when combined with age (30), English (10), and qualification (15) points. However, for competitive occupations such as Software Engineer (ANZSCO 261313) or Civil Engineer (233211), where invitation cut-offs in 2024 ranged from 85 to 95 points, graduates may need to work for 3–5 years to claim the 10-point Australian employment band.
+
+Employment must be in a skilled occupation listed on the relevant skilled occupation list (SOL) and must be assessed by the appropriate assessing authority, such as Engineers Australia or the Australian Computer Society. Part-time work counts proportionally—two years of part-time at 20 hours per week equals one year of full-time experience. Graduates should maintain detailed employment records, including payslips, contracts, and reference letters, to substantiate claims during the visa application stage.
+
+## Educational Qualifications
+
+**Educational qualifications** award points for degrees and diplomas completed at recognised institutions. The points structure is: 10 points for a Doctorate (PhD) from an Australian or recognised overseas institution, 15 points for a bachelor’s degree (including honours) or master’s degree, and 10 points for a diploma or trade qualification completed in at least two years of full-time study (Department of Home Affairs, Points Table for Skilled Migration, 2024).
+
+For graduates holding an Australian bachelor’s degree, the standard allocation is 15 points. A master’s degree also awards 15 points, not 20—a common misconception. The only qualification that yields 20 points is a Doctorate. Graduates who complete a combined bachelor’s and master’s program (e.g., a 4-year integrated master’s) still receive 15 points, as the system counts the highest qualification only. This means that for a graduate with a bachelor’s degree, pursuing a PhD solely for points would add only 5 extra points—a significant time investment for a relatively small gain.
+
+However, the 15-point qualification category is often paired with the **Australian Study Requirement** (5 points) and the **Specialist Educational Qualification** (10 points), which together can push the total qualification-related points to 30. Graduates who complete at least two academic years (92 weeks) of study in Australia while physically present qualify for the Australian Study Requirement, adding 5 points to their EOI score.
+
+## Specialist Education and Credentialing
+
+**Specialist education qualifications** and credentialing categories offer additional points beyond the base qualification score. The two most relevant for graduates are the **Specialist Educational Qualification** (10 points) and the **Credentialed Community Language** (5 points). The Specialist Educational Qualification is awarded for completing a master’s degree by research or a doctorate in Australia that included at least two academic years of study in a field related to the nominated occupation (Department of Home Affairs, Points Table for Skilled Migration, 2024).
+
+Graduates who complete a master’s by research in engineering, information technology, or health sciences can claim 10 points plus the standard 15 points for the degree itself, totalling 25 points for qualifications alone. This combination is particularly valuable for graduates targeting competitive occupations where every point matters. The **Australian Study Requirement** (5 points) can stack on top, bringing the total to 30 points from education-related categories—equivalent to the maximum age points.
+
+The **Credentialed Community Language** category awards 5 points for holding a NAATI credential at the paraprofessional level or above in a language other than English. For graduates who are native speakers of Mandarin, Hindi, Arabic, or other widely spoken languages, obtaining a NAATI certification can be completed in 4–8 weeks through a preparation course and exam. This 5-point addition can be the difference between meeting the invitation cut-off and missing it by a single point.
+
+## State Nomination and Partner Skills
+
+**State nomination** and **partner skills** are not directly part of the Subclass 189 points table, but graduates often confuse these with the 190 and 491 visa categories. The Subclass 189 does not award points for state nomination—that is exclusive to the Subclass 190 (Skilled Nominated) visa, which adds 5 points, and the Subclass 491 (Skilled Work Regional) visa, which adds 15 points. For graduates considering a backup option, applying for a 190 visa alongside a 189 EOI can provide a 5-point buffer.
+
+**Partner skills** can add up to 10 points under the Subclass 189 system. If the applicant’s partner also meets the base skills requirements (age under 45, Competent English, and a positive skills assessment in an eligible occupation), the applicant receives 10 points. If the partner has Competent English but does not meet the full skills criteria, the applicant receives 5 points. A partner who is an Australian citizen or permanent resident contributes 10 points (Department of Home Affairs, Points Table for Skilled Migration, 2024).
+
+For graduates who are single or whose partner does not meet the skills criteria, the system awards 10 points automatically under changes introduced in July 2019. This means that a single graduate receives the same partner points as a graduate with a fully skilled partner—an important equaliser. Graduates should verify their partner’s skills assessment timeline early, as the assessment process can take 3–6 months.
+
+## FAQ
+
+### Q1: What is the minimum points score needed to receive an invitation for the Subclass 189 visa?
+
+The minimum points score to lodge an Expression of Interest is 65 points, but invitation cut-offs for most skilled occupations are significantly higher. In the August 2024 invitation round, the minimum points for Accountants (General) was 95, for Software Engineers it was 90, and for Registered Nurses it was 85 (Department of Home Affairs, SkillSelect Invitation Round Data, August 2024). Graduates should aim for a score of at least 85 to be competitive, and 90 or above for occupations with high demand.
+
+### Q2: Can I claim points for both my bachelor’s degree and master’s degree?
+
+No, the Subclass 189 points system awards points for the highest qualification only. If you hold both a bachelor’s degree and a master’s degree, you receive 15 points for the master’s degree, not 30 points for both. However, you can combine the master’s degree points with the Specialist Educational Qualification (10 points) if the master’s is by research, and with the Australian Study Requirement (5 points) if you completed the study in Australia.
+
+### Q3: How long does it take to get a skills assessment for my occupation?
+
+Skills assessment timelines vary by assessing authority. Engineers Australia typically processes applications in 8–12 weeks, the Australian Computer Society (ACS) takes 8–10 weeks for post-Australian study applications, and CPA Australia for accountants takes 4–6 weeks (Engineers Australia, Skills Assessment Processing Times, 2024). Graduates should apply for their skills assessment immediately after completing their degree, as the assessment is valid for three years and is required before lodging an EOI.
+
+## References
+
+- Department of Home Affairs. (2024). 2024–25 Migration Program Planning Levels.
+- Department of Home Affairs. (2024). SkillSelect Points Test Guidelines.
+- Department of Home Affairs. (2024). Points Table for Skilled Migration (Subclass 189, 190, 491).
+- Department of Home Affairs. (2024). SkillSelect Invitation Round Data, August 2024.
+- Engineers Australia. (2024). Skills Assessment Processing Times.

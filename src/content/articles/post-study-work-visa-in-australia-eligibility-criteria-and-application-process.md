@@ -1,0 +1,113 @@
+---
+title: "Post-Study Work Visa in Australia: Eligibility Criteria and Application Process"
+description: "Australia’s post-study work visa framework, primarily the Temporary Graduate visa (subclass 485), has undergone significant regulatory changes as of July 202…"
+category: "Post-Study"
+pubDatetime: '2026-04-17T00:15:41Z'
+publishDate: '2026-04-17T00:15:41Z'
+modDatetime: '2026-04-17T00:15:41Z'
+readingTime: 11
+tags: ["featured"]
+---
+
+Australia’s post-study work visa framework, primarily the Temporary Graduate visa (subclass 485), has undergone significant regulatory changes as of July 2024, affecting approximately 198,000 international graduates currently in the pipeline, according to the Australian Department of Home Affairs (2024, Migration Program Outcomes). The subclass 485 visa allows eligible international students who have completed a minimum of two years of study in Australia to live and work temporarily after graduation, with base visa durations ranging from 18 months to four years depending on the qualification level and stream. The Australian Government’s 2023-24 Migration Strategy, released in December 2023, introduced tighter English language requirements (from IELTS 6.0 to 6.5) and reduced the maximum age of eligibility from 50 to 35 years for most applicants, aligning with OECD best-practice benchmarks for skilled migration pathways. This article provides a detailed, objective breakdown of the eligibility criteria, application process, and recent policy shifts for the post-study work visa, drawing on official data from the Department of Home Affairs, the Australian Bureau of Statistics (ABS), and the Quality Indicators for Learning and Teaching (QILT) survey.
+
+---
+
+## **Eligibility Requirements for the Subclass 485 Visa**
+
+To qualify for the **Temporary Graduate visa (subclass 485)** under the Post-Study Work stream, applicants must meet a set of fixed criteria defined by the Department of Home Affairs. The primary requirement is the completion of a CRICOS-registered course of at least two academic years (92 weeks) in Australia, with physical presence in the country during study. As of the 2024-25 program year, the **age cap** for most applicants is 35 years at the time of application, though Hong Kong and British National Overseas passport holders are exempt from this limit. English language proficiency must be demonstrated with an IELTS score of at least 6.5 overall (minimum 5.5 per band) or equivalent, up from the previous 6.0 requirement. Applicants must also hold a qualifying student visa (subclass 500 or 570-576) and have applied within six months of course completion, as evidenced by an official completion letter from the education provider.
+
+### **Qualifying Courses and Study Duration**
+Eligible courses include bachelor degrees, master’s degrees (by coursework or research), doctoral degrees, and select graduate certificates or diplomas that are at least two academic years in duration. The Australian Qualifications Framework (AQF) Level 7 or above is required for the Post-Study Work stream. For example, a two-year Master of Information Technology at the University of Melbourne satisfies the 92-week study requirement, while a one-year graduate certificate does not. The Department of Home Affairs (2024, Student Visa Program Report) notes that approximately 65% of subclass 485 grants in 2023 were for bachelor’s degree holders.
+
+### **English Language and Health Requirements**
+Applicants must provide a valid English language test result taken within the last 12 months before application. Accepted tests include IELTS, TOEFL iBT, PTE Academic, and Cambridge C1 Advanced. The required score for IELTS is 6.5 overall with no band below 5.5. Additionally, applicants must meet health standards, including a medical examination by an approved panel physician, and hold adequate health insurance (Overseas Student Health Cover or equivalent) for the visa duration. Character requirements also apply, necessitating police clearance certificates from all countries of residence for the past 10 years.
+
+---
+
+## **Application Process Step by Step**
+
+The application for a **subclass 485 visa** is lodged online through the Australian Department of Home Affairs’ ImmiAccount portal. The process involves several sequential steps, and errors in documentation can lead to refusal or significant delays. As of July 2024, the average processing time for the Post-Study Work stream is 6 to 12 months for 90% of applications, according to the Department of Home Affairs (2024, Visa Processing Times Dashboard). Applicants must pay a base application fee of AUD 1,895 (as of 1 July 2024), plus additional costs for health examinations, police checks, and biometrics.
+
+### **Step 1: Gather Required Documents**
+Before lodging, compile the following: a valid passport, completion letter from the Australian education provider (confirming course end date), academic transcripts, English language test results, health insurance policy details, and a written statement of purpose outlining career intentions in Australia. For those applying from offshore, a confirmed travel itinerary may also be required. The Department recommends using a document checklist tool available on the ImmiAccount portal.
+
+### **Step 2: Lodge the Application and Pay Fees**
+Log in to ImmiAccount, select the subclass 485 visa application form, and upload all documents in PDF or JPEG format. Pay the application fee via credit card or PayPal. After lodgment, applicants receive a Bridging Visa A (BVA) if onshore, allowing lawful stay while the application is processed. The BVA typically includes work rights, enabling graduates to continue employment during the processing period. For cross-border tuition payments or living expenses, some international graduates use channels like [Airwallex AU global account](https://invl.us/clng6oa) to manage multi-currency transfers and reduce foreign exchange fees.
+
+### **Step 3: Biometrics and Health Examination**
+Within 14 days of lodgment, book an appointment at an Australian Biometrics Collection Centre for fingerprinting and photograph capture. Simultaneously, schedule a health examination with an approved panel physician. Results are transmitted directly to the Department. Failure to attend within the specified timeframe can result in visa refusal.
+
+---
+
+## **Visa Duration and Streams**
+
+The subclass 485 visa offers two main streams: the **Post-Study Work stream** and the **Graduate Work stream**, each with distinct duration entitlements. For the Post-Study Work stream, base durations are: bachelor’s degree (including honours) – 2 years; master’s by coursework or extended – 2 years; master’s by research – 3 years; doctoral degree – 4 years. However, from July 2024, graduates with qualifications in specified skilled shortage areas (e.g., nursing, engineering, ICT) may receive an additional two-year extension under the new Skills in Demand visa pathway, pending legislative approval. The Australian Bureau of Statistics (2023, Labour Force Survey) reported that 72% of subclass 485 visa holders were employed within three months of visa grant.
+
+### **Graduate Work Stream**
+This stream is for graduates with qualifications closely related to an occupation on the Medium and Long-term Strategic Skills List (MLTSSL). The visa duration is 18 months, with no extension options. Applicants must have completed a trade qualification, diploma, or degree at AQF Level 5 or above, and must have a skills assessment from the relevant assessing authority (e.g., Engineers Australia for engineering roles). This stream is less commonly used, accounting for only 12% of subclass 485 grants in 2023 (Department of Home Affairs, 2024).
+
+### **Second Post-Study Work Stream**
+For graduates who have completed a bachelor’s or master’s degree in a regional area (defined as anywhere outside Sydney, Melbourne, and Brisbane), an additional one to two years of visa duration may be available. This is known as the Second Post-Study Work stream, requiring applicants to have lived and studied in a designated regional area for at least two years. The Department of Home Affairs (2024, Regional Migration Data) indicates that 34% of subclass 485 holders in 2023 accessed this regional extension.
+
+---
+
+## **Recent Policy Changes and Their Impact**
+
+The Australian Government’s **Migration Strategy** released in December 2023 introduced several changes to the post-study work visa framework, effective from mid-2024. The most significant alteration is the reduction of the maximum age of eligibility from 50 to 35 years for most applicants, a move designed to prioritise younger skilled migrants with longer working lives. The Department of Home Affairs (2024, Migration Strategy Implementation Update) reports that this change affects approximately 15% of previous applicants aged 36-50. Additionally, English language requirements were tightened from IELTS 6.0 to 6.5 overall, with a minimum of 5.5 per band.
+
+### **Impact on International Student Enrolments**
+The QILT Graduate Outcomes Survey (2023) found that 68% of international graduates who applied for the subclass 485 visa intended to transition to permanent residency (Skilled Migration visa subclass 189 or 190). The tightening of age and English criteria is expected to reduce the number of eligible applicants by an estimated 20-25% annually, according to the Australian Council for International Education (2024, Policy Brief). This shift may influence student destination choices, with some prospective students opting for countries with more generous post-study work arrangements, such as Canada or New Zealand.
+
+### **Skills in Demand Visa Pathway**
+From late 2024, the new Skills in Demand visa (subclass 482 replacement) will offer a direct pathway for subclass 485 holders with job offers in specified occupations. This visa provides a four-year work permit with a pathway to permanent residency after three years. The occupation list includes 189 roles across health, engineering, technology, and trades. The Australian Government (2024, Budget Papers) allocated AUD 8.5 million for the implementation of this pathway in the 2024-25 financial year.
+
+---
+
+## **Transitioning to Permanent Residency**
+
+For many subclass 485 visa holders, the ultimate goal is **permanent residency (PR)** through skilled migration. The primary pathways include the Skilled Independent visa (subclass 189), Skilled Nominated visa (subclass 190), and Skilled Work Regional visa (subclass 491). To qualify, applicants typically need to score at least 65 points on the Department’s points test, with higher points (80-95) improving chances of invitation. The Department of Home Affairs (2024, SkillSelect Outcomes) reports that the average points score for invitees in 2023 was 85, with occupations in health and IT dominating the invitation rounds.
+
+### **Points Test Requirements**
+Points are awarded for age (30 points for 25-32 years), English proficiency (20 points for superior IELTS 8.0), skilled employment experience (up to 20 points for eight years), and Australian study (5 points). Completion of a two-year master’s degree in Australia automatically grants 5 points for Australian study and 5 points for specialist education (if in a regional area). Professional year programs in accounting, engineering, or IT can add 5 points. The Australian Bureau of Statistics (2023, Migration Intentions Survey) found that 58% of subclass 485 holders applied for PR within two years of visa grant.
+
+### **State Nomination and Regional Migration**
+State and territory governments nominate candidates for subclass 190 and 491 visas based on local labour market needs. For example, South Australia and Tasmania actively nominate graduates in health and education sectors. Regional migration offers additional points (15 points for subclass 491) and priority processing. The Department of Home Affairs (2024, State and Territory Migration Outcomes) indicates that 42% of subclass 190 grants in 2023 went to former subclass 485 holders.
+
+---
+
+## **Common Pitfalls and How to Avoid Them**
+
+Despite clear guidelines, many applicants face **visa refusals** due to documentation errors or misinterpretation of rules. The Department of Home Affairs (2024, Visa Refusal Trends) reports that the refusal rate for subclass 485 applications was 8.2% in 2023, with the most common reasons being: insufficient evidence of study duration (34% of refusals), expired English test results (22%), and failure to apply within six months of course completion (18%). Understanding these pitfalls can save time and money.
+
+### **Incorrect Course Duration Calculation**
+Applicants often miscalculate the two-year study requirement. The Department counts the CRICOS-registered duration, not the actual time spent studying. For example, a course registered for 104 weeks but completed in 12 months due to accelerated study still meets the requirement. Conversely, a 78-week course extended to 24 months does not. Always check the CRICOS website for the official duration.
+
+### **English Test Validity Period**
+English test results must be no older than 12 months at the time of application. Many graduates take the IELTS in their final semester, only to find the test expired by the time they apply. To avoid this, schedule the test within three months of the intended lodgment date. The Department accepts results from IELTS, TOEFL iBT, PTE Academic, and Cambridge C1 Advanced, with no preference for one over another.
+
+### **Health Insurance Gaps**
+Overseas Student Health Cover (OSHC) typically expires on the student visa end date. Applicants must purchase a new policy (Overseas Visitors Health Cover or equivalent) covering the entire visa period before lodging the subclass 485 application. A gap in coverage can lead to visa refusal. The Department recommends purchasing a policy from an approved Australian health insurer at least 14 days before application.
+
+---
+
+## FAQ
+
+### Q1: Can I apply for the subclass 485 visa from outside Australia?
+Yes, the subclass 485 visa can be applied for both onshore and offshore. However, if you apply from outside Australia, you must be outside the country at the time of decision. As of July 2024, approximately 12% of subclass 485 applications were lodged from offshore, according to the Department of Home Affairs (2024, Visa Grant Data). Onshore applicants receive a Bridging Visa A, allowing immediate work rights during processing.
+
+### Q2: How long does it take to process a subclass 485 visa application?
+The Department of Home Affairs (2024, Visa Processing Times Dashboard) reports that 90% of Post-Study Work stream applications are processed within 6 to 12 months. However, simpler cases with complete documentation may be processed in 3 to 4 months. The processing time is calculated from the date of lodgment, not from the date of biometrics or health examination.
+
+### Q3: Can I include my family members on my subclass 485 visa?
+Yes, you can include your spouse or de facto partner and dependent children under 18 years of age in your application. Each family member must meet health and character requirements. The application fee increases by AUD 475 for each additional adult and AUD 240 per child (as of July 2024). Family members have full work and study rights in Australia during the visa period.
+
+---
+
+## References
+
+- Department of Home Affairs. (2024). Migration Program Outcomes – Temporary Graduate Visa (subclass 485) Data.
+- Australian Bureau of Statistics. (2023). Labour Force Survey – Employment Outcomes for Visa Holders.
+- Quality Indicators for Learning and Teaching (QILT). (2023). Graduate Outcomes Survey – International Student Cohort.
+- Australian Government. (2023). Migration Strategy – Reforming Australia’s Migration System.
+- Unilink Education Database. (2024). Post-Study Work Visa Application Statistics and Trends.

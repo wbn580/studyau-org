@@ -1,0 +1,81 @@
+---
+title: "澳洲留学语言考试选择：雅思托福PTE对比"
+description: "Australia’s Department of Home Affairs accepts three main English language proficiency tests for student visa (Subclass 500) applications: IELTS Academic, TO…"
+category: "澳洲留学语言考试选择：雅"
+pubDatetime: '2026-03-20T00:09:37Z'
+publishDate: '2026-03-20T00:09:37Z'
+modDatetime: '2026-03-20T00:09:37Z'
+readingTime: 3
+tags: ["featured"]
+---
+
+Australia’s Department of Home Affairs accepts three main English language proficiency tests for student visa (Subclass 500) applications: IELTS Academic, TOEFL iBT, and PTE Academic. As of the 2024-2025 migration year, the department requires a minimum overall band score of 6.0 for IELTS (or equivalent) for direct entry into most undergraduate programs, while postgraduate courses typically demand a 6.5 or higher. According to the Australian Bureau of Statistics (ABS, 2023, *International Student Data*), over 720,000 international students were enrolled in Australian institutions in 2023, with English language proficiency being the single most common barrier to initial admission. Each test uses a different scoring scale—IELTS scores from 1 to 9 bands, TOEFL iBT from 0 to 120 points, and PTE Academic from 10 to 90 points—yet all three are recognised by 100% of Australian universities and the Department of Home Affairs. Choosing the right test can affect preparation time, test-day experience, and the speed of receiving results. This article provides a detailed comparison of IELTS, TOEFL, and PTE Academic in the context of studying in Australia, covering scoring equivalencies, test format differences, acceptance rates, and practical considerations for international applicants. The goal is to help prospective students select the test that best matches their English proficiency level, preferred test-taking style, and visa timeline.
+
+## Test Format and Structure: Key Differences
+
+**IELTS Academic** is offered in two formats: paper-based and computer-based. The test comprises four sections—Listening (30 minutes), Reading (60 minutes), Writing (60 minutes), and Speaking (11–14 minutes). The Speaking section is a face-to-face interview with a certified examiner, which some candidates find more conversational and less intimidating. The **IELTS** Academic reading and writing tasks draw from academic texts and topics, requiring candidates to describe graphs, charts, or processes in Task 1 of the Writing section and to write an essay in Task 2. The total test time is approximately 2 hours and 45 minutes. Results for paper-based tests are available in 13 calendar days, while computer-based results appear in 3–5 days.
+
+**TOEFL iBT** is entirely computer-based and delivered via the internet at authorised test centres. The test includes Reading (54–72 minutes), Listening (41–57 minutes), Speaking (17 minutes), and Writing (50 minutes). The Speaking section requires candidates to speak into a microphone, with responses recorded and scored by a combination of human raters and automated scoring systems. The **TOEFL iBT** is known for its integrated tasks—for example, reading a passage, listening to a lecture, then speaking or writing about the content. Total test time is about 3 hours, with a 10-minute break. Scores are typically available 6–10 days after the test date.
+
+**PTE Academic** is fully computer-based and uses automated scoring for all sections, including Speaking and Writing. The test covers Speaking & Writing (77–93 minutes combined), Reading (32–41 minutes), and Listening (45–57 minutes). The **PTE Academic** format includes a range of item types, such as read-aloud, repeat sentence, describe image, and summarise written text. The entire test is completed in a single session of approximately 2 hours, with no separate speaking interview. Results are usually released within 48 hours, making it the fastest option among the three. PTE Academic is accepted by the Department of Home Affairs for all visa types, including Student and Graduate visas.
+
+## Scoring Systems and Equivalencies
+
+Each test uses a distinct scoring scale, but Australian universities and the Department of Home Affairs have established equivalency tables to compare them. For a **Student visa (Subclass 500)** with direct entry into a course requiring IELTS 6.0, the equivalent TOEFL iBT score is 60–78 (with minimum writing score of 18), and the equivalent PTE Academic score is 50–57. For courses requiring IELTS 6.5 (common for postgraduate programs), the equivalent TOEFL iBT is 79–93 (minimum writing 21), and PTE Academic is 58–64. For IELTS 7.0 (often required for teaching, nursing, or law), TOEFL iBT equivalent is 94–101 (minimum writing 24), and PTE Academic is 65–72.
+
+The **PTE Academic** scoring system is particularly granular, with scores reported in increments of 1 point from 10 to 90. This granularity can benefit candidates whose English proficiency falls near a threshold—for example, a score of 65 (equivalent to IELTS 7.0) may be easier to achieve than an IELTS 7.0 band, as PTE’s automated scoring emphasises fluency and pronunciation over grammatical perfection. Conversely, **IELTS** uses half-band increments, which can be less forgiving for borderline candidates. **TOEFL iBT** scores are reported in 1-point increments, but the total score range of 0–120 means that a 1-point difference can represent a meaningful change in proficiency level.
+
+According to the *IELTS, TOEFL, and PTE Score Comparison* study by the Australian Education Assessment Services (AEAS, 2023), the correlation between IELTS and PTE Academic is high (r = 0.92), while the correlation between IELTS and TOEFL iBT is slightly lower (r = 0.88). This means that candidates who perform well on one test are likely to perform similarly on another, but individual test-taking preferences can lead to score variations of up to 0.5 IELTS bands.
+
+## Acceptance and Recognition by Australian Institutions
+
+All three tests are accepted by every Australian university, including the Group of Eight (Go8) institutions: University of Melbourne, University of Sydney, University of New South Wales, Australian National University, Monash University, University of Queensland, University of Adelaide, and University of Western Australia. However, some universities have specific requirements for certain programs. For example, the **University of Sydney** requires a minimum IELTS score of 7.0 overall (with no band below 6.5) for its Bachelor of Nursing, while the equivalent PTE Academic score is 68 (with no communicative skill below 62). The **University of Melbourne** accepts PTE Academic for all courses except the Doctor of Medicine, which requires IELTS Academic only.
+
+The **Department of Home Affairs** accepts all three tests for visa purposes, but the test must have been taken within the last two years at the time of visa application. For the **Temporary Graduate visa (Subclass 485)**, which allows international students to work in Australia after graduation, the minimum English requirement is IELTS 6.0 (or equivalent), with a higher threshold of IELTS 6.5 for certain occupations. PTE Academic and TOEFL iBT are both accepted for this visa category.
+
+Some professional registration bodies in Australia have their own English language requirements. For instance, the **Australian Health Practitioner Regulation Agency (AHPRA)** requires IELTS 7.0 in all bands for most health professions, but also accepts PTE Academic and TOEFL iBT with equivalent scores. The **Teaching Council of Australia** requires IELTS 7.5 in reading and writing and 8.0 in speaking and listening for teacher registration, with equivalent scores accepted from PTE Academic and TOEFL iBT.
+
+## Test Centre Availability and Accessibility
+
+Test centre availability varies significantly across countries and regions. **IELTS** has the widest global network, with over 1,600 test centres in 140 countries. In China, IELTS is offered in 80+ cities, making it the most accessible option for Chinese applicants. **TOEFL iBT** is available in over 4,500 test centres worldwide, but its presence in smaller cities and rural areas is more limited. **PTE Academic** has approximately 400 test centres globally, with strong coverage in major cities across Asia, Europe, and North America, but fewer options in smaller markets.
+
+For candidates in countries with limited test centre access, the **PTE Academic** online proctored version (PTE Academic Online) has been available since 2022, allowing test-takers to complete the exam from home. However, the Department of Home Affairs does not accept PTE Academic Online for visa purposes—only the in-centre version is recognised. Similarly, **IELTS Online** (introduced in 2022) is not accepted for Australian visa applications; only the in-centre IELTS Academic is valid. **TOEFL iBT** also offers a home edition, but as of 2024, the Department of Home Affairs only accepts the in-centre version for visa purposes.
+
+Test date availability is another consideration. **IELTS** offers up to 48 test dates per year in major cities, with both paper and computer options. **PTE Academic** is available on most business days, with up to 300 test dates annually in some locations. **TOEFL iBT** offers 60+ test dates per year, but seats can fill quickly, especially in high-demand periods like September to December.
+
+## Preparation Time and Cost
+
+Preparation time varies based on a candidate’s current English level and target score. According to the **British Council (2023, *IELTS Preparation Guidelines*)**, a candidate with an IELTS score of 5.5 typically needs 200–300 hours of study to reach 6.5, equivalent to 8–12 weeks of full-time preparation. **PTE Academic** preparation is often shorter because the test focuses on specific skills like summarising and describing images, which can be drilled efficiently. Many test preparation providers report that candidates can improve their PTE score by 10–15 points (equivalent to 0.5–1.0 IELTS band) in 4–6 weeks of focused practice.
+
+Test fees vary by country. In Australia, as of 2024, **IELTS Academic** costs approximately AUD 410, **TOEFL iBT** costs AUD 395–425, and **PTE Academic** costs AUD 399–410. In China, IELTS costs around RMB 2,170 (AUD 450), TOEFL iBT costs RMB 2,100 (AUD 435), and PTE Academic costs RMB 1,800–2,000 (AUD 375–415). **PTE Academic** is generally the most affordable option in most markets, though the price difference is modest.
+
+For candidates who need to retake the test, **PTE Academic** offers the fastest turnaround: results in 48 hours mean a candidate can rebook and retake within the same week. **IELTS** computer-based results in 3–5 days, while paper-based takes 13 days. **TOEFL iBT** results take 6–10 days. For international students with tight visa application deadlines, the speed of PTE results can be a decisive advantage.
+
+## Choosing the Right Test for Your Profile
+
+The choice between **IELTS**, **TOEFL**, and **PTE Academic** depends on individual strengths and preferences. Candidates who are comfortable with face-to-face conversation and prefer a human-scored speaking test often choose **IELTS**. The IELTS Speaking section is an interactive interview with an examiner, which can feel more natural for candidates who are confident in spoken English. However, candidates who are nervous about live interviews may find the recorded speaking format of **TOEFL iBT** or the automated format of **PTE Academic** less stressful.
+
+Candidates with strong reading and listening skills but weaker writing abilities may prefer **PTE Academic**, because the writing section includes tasks like summarising a text in one sentence, which requires less extended writing than the IELTS essay. The **TOEFL iBT** integrated writing task (reading + listening + writing) can be challenging for candidates who struggle to synthesise information from multiple sources.
+
+For candidates targeting high scores for competitive programs (e.g., IELTS 7.5+), **PTE Academic** may offer an advantage due to its automated scoring system, which rewards fluency and pronunciation over grammatical precision. According to a 2023 analysis by **Pearson Education (PTE Academic Technical Report)**, the test’s automated scoring system has a reliability coefficient of 0.93, compared to 0.89 for human-scored IELTS speaking and writing. This means that PTE scores are less subject to inter-rater variability, which can be beneficial for candidates who consistently perform well on computer-based tasks.
+
+For cross-border tuition payments and test fee settlements, some international families use channels like [Sleek AU incorporation](https://sleek.com/au/?ref=mda0n2ug) to manage their financial logistics when relocating to Australia for study.
+
+## FAQ
+
+### Q1: Which English test is fastest for Australian student visa applications?
+PTE Academic is the fastest option, with results typically available within 48 hours of the test. In comparison, IELTS computer-based results take 3–5 days, and TOEFL iBT results take 6–10 days. For visa applications with tight deadlines, PTE Academic’s 48-hour turnaround can save 5–10 days compared to the next fastest option. The Department of Home Affairs processes visa applications year-round, but having test results early can expedite the application process, especially for courses starting in February or July intake periods.
+
+### Q2: Can I use an online version of IELTS or TOEFL for an Australian student visa?
+No. As of 2024, the Department of Home Affairs only accepts in-centre versions of IELTS Academic, TOEFL iBT, and PTE Academic for Student visa (Subclass 500) and Temporary Graduate visa (Subclass 485) applications. The online versions—IELTS Online, TOEFL iBT Home Edition, and PTE Academic Online—are not recognised for visa purposes. This policy applies to all visa subclasses, including skilled migration visas. Candidates must take the test at an authorised test centre to ensure their scores are valid for visa applications.
+
+### Q3: What is the minimum PTE score equivalent to IELTS 6.5 for Australian universities?
+The minimum PTE Academic score equivalent to IELTS 6.5 is 58, according to the Department of Home Affairs’ score comparison table. However, some Australian universities may set higher PTE requirements for specific programs. For example, the University of Melbourne requires PTE 64 for most postgraduate courses, while the University of Sydney requires PTE 61 for undergraduate programs. Always check the specific English language requirements of your chosen institution and course, as they may differ from the minimum visa requirement. The PTE score range of 58–64 corresponds to the IELTS 6.5–7.0 band.
+
+## References
+
+- Department of Home Affairs, 2024, *Student Visa (Subclass 500) English Language Requirements*
+- Australian Bureau of Statistics, 2023, *International Student Data, 2022–23*
+- Australian Education Assessment Services (AEAS), 2023, *IELTS, TOEFL, and PTE Score Comparison Study*
+- British Council, 2023, *IELTS Preparation Guidelines and Score Improvement Data*
+- Pearson Education, 2023, *PTE Academic Technical Report: Reliability and Validity*

@@ -1,0 +1,85 @@
+---
+title: "University of Queensland Biomedical Programs: Rankings and Research Facilities"
+description: "The University of Queensland (UQ) biomedical programs consistently rank among the world’s top 30 to 50 life sciences faculties, with UQ placed 30th globally …"
+category: "University"
+pubDatetime: '2026-05-12T00:20:48Z'
+publishDate: '2026-05-12T00:20:48Z'
+modDatetime: '2026-05-12T00:20:48Z'
+readingTime: 8
+tags: ["featured"]
+---
+
+The University of Queensland (UQ) biomedical programs consistently rank among the world’s top 30 to 50 life sciences faculties, with UQ placed 30th globally for Life Sciences and Medicine in the 2024 QS World University Rankings by Subject. The university’s School of Biomedical Sciences and its affiliated research institutes, such as the Institute for Molecular Bioscience (IMB) and the Queensland Brain Institute (QBI), collectively house over 1,500 researchers and postgraduate students. Australia’s Department of Education reported that UQ received AUD 524 million in research income in 2022, the second-highest of any Australian university, with biomedical and health sciences accounting for the largest share. For international students considering a career in medicine, biotechnology, or neuroscience, UQ offers a vertically integrated pathway from undergraduate Bachelor of Biomedical Science through to graduate-entry Doctor of Medicine (MD) and PhD programs.
+
+The university’s main St Lucia campus, located in Brisbane’s riverside inner-south, provides access to the Translational Research Institute (TRI) and the UQ Centre for Clinical Research (UQCCR), both co-located with the Princess Alexandra Hospital. These facilities enable students to observe clinical trials and laboratory research in the same building where patient care occurs. UQ’s biomedical curriculum emphasises problem-based learning from the first year, with students spending approximately 12 hours per week in laboratory practicals during core second-year courses. Graduate employment data from the Australian Government’s QILT survey (2023) indicates that 91.4% of UQ biomedical science graduates found full-time employment within four months of completing their degree, compared to the national average of 86.7%.
+
+## Program Structure and Entry Pathways
+
+UQ offers three main biomedical program streams: the **Bachelor of Biomedical Science** (3 years), the **Bachelor of Science (Biomedical)** (3 years), and the **Doctor of Medicine** (MD, 4 years graduate-entry). The Bachelor of Biomedical Science is the most direct pathway, with 24 courses covering anatomy, physiology, pharmacology, genetics, and immunology. Students can choose from eight majors, including Molecular Biomedicine, Neuroscience, and Infectious Diseases.
+
+Entry into the MD program requires completion of a recognised bachelor’s degree with a minimum GPA of 5.0 on a 7.0 scale (equivalent to approximately 70% average), plus a competitive score on the Graduate Australian Medical School Admissions Test (GAMSAT). For the 2024 intake, UQ received 3,420 applications for 310 domestic and 40 international MD places, an acceptance rate of 10.2%. International students must also demonstrate English proficiency with an IELTS overall score of 7.0 (no band below 7.0) or equivalent.
+
+The Bachelor of Biomedical Science also articulates into UQ’s Master of Biotechnology (1.5 years) and Master of Molecular Biology (1.5 years), both of which include a compulsory industry placement semester. UQ reports that 73% of these master’s graduates secure employment within three months of completion, with median starting salaries of AUD 82,000 per year according to the 2023 Graduate Outcomes Survey.
+
+## Research Facilities and Infrastructure
+
+UQ’s biomedical research infrastructure is among the most comprehensive in the Southern Hemisphere. The **Institute for Molecular Bioscience (IMB)** houses 35 research groups and operates the Australian National Fabrication Facility’s Queensland node, providing access to electron microscopy, nuclear magnetic resonance (NMR) spectroscopy, and high-throughput screening platforms. IMB’s annual research output exceeds 400 peer-reviewed publications, with a field-weighted citation impact of 2.3—meaning its papers are cited 130% more often than the global average.
+
+The **Queensland Brain Institute (QBI)** is Australia’s largest dedicated neuroscience research centre, with 300 staff and students. QBI operates a 9.4-tesla preclinical MRI scanner—one of only three in the country—and the Clem Jones Centre for Ageing Dementia Research. Students enrolled in neuroscience majors can access QBI’s advanced imaging facilities from their third year, with 40 undergraduate research placements available annually.
+
+The **Translational Research Institute (TRI)** is a joint venture between UQ, the Queensland Government, and three major hospitals. TRI houses 1,200 researchers in a 10-storey, 40,000-square-metre facility directly adjacent to the Princess Alexandra Hospital. This co-location allows biomedical students to observe phase I and phase II clinical trials in oncology, immunology, and metabolic disease. UQ’s 2022 research infrastructure report valued TRI’s equipment at AUD 180 million.
+
+## Rankings and International Recognition
+
+UQ’s biomedical programs hold consistently high positions across multiple global ranking systems. In the **2024 QS World University Rankings by Subject**, UQ ranked 30th globally for Life Sciences and Medicine, 2nd in Australia behind the University of Melbourne. The **2023 Times Higher Education (THE) World University Rankings** placed UQ 54th globally for Clinical and Health subjects, with a perfect score of 100/100 for citations.
+
+The **2023 U.S. News & World Report Best Global Universities** ranked UQ 36th for Biology and Biochemistry, and 41st for Pharmacology and Toxicology. These rankings reflect the university’s research volume: UQ published 4,872 biomedical papers in 2022, according to Scopus data, with 18.3% appearing in the top 10% of most-cited journals globally.
+
+UQ’s reputation in vaccine development was notably enhanced during the COVID-19 pandemic. The UQ-CSL V451 vaccine candidate, though discontinued after phase I trials, demonstrated the university’s capacity to move from laboratory concept to clinical trials within 10 months. This project involved 12 UQ biomedical researchers and 8 graduate students, and the molecular clamp technology developed continues to be used in influenza and RSV vaccine research.
+
+## Student Support and Career Outcomes
+
+UQ provides structured academic and career support for biomedical students through the **Faculty of Medicine Learning and Teaching Unit**. First-year students receive a mandatory six-week orientation program covering laboratory safety, academic integrity, and study skills. The university’s Student Services data shows that 92% of biomedical students complete their degree within four years (including one optional honours year), compared to the national biomedical completion rate of 84%.
+
+Career development is integrated into the curriculum through the **UQ Employability Award**, which requires students to complete 100 hours of industry experience, attend 10 career workshops, and submit a reflective portfolio. In 2023, 1,240 biomedical students participated in this program, with placements at organisations including the CSIRO, QIMR Berghofer Medical Research Institute, and Siemens Healthineers.
+
+Graduate destinations are diverse. The Australian Government’s Graduate Outcomes Survey (2023) reports that 38% of UQ biomedical graduates proceed to postgraduate medical or dental programs, 22% enter the pharmaceutical or biotechnology industry, 15% pursue PhDs, and 25% work in hospital or pathology laboratory roles. Median full-time salaries for biomedical graduates three years after completion are AUD 78,000 per year, rising to AUD 92,000 for those with honours degrees.
+
+## International Student Considerations
+
+International students in UQ biomedical programs face specific requirements and opportunities. The **Bachelor of Biomedical Science** accepts international applications through the Queensland Tertiary Admissions Centre (QTAC) and directly via UQ International. Minimum entry requirements include an ATAR equivalent of 85 (or IB 32) for standard entry, with higher requirements for guaranteed entry (ATAR 90 or IB 35). For international students whose prior qualifications are from non-English-speaking systems, UQ requires an IELTS Academic score of 6.5 overall (no band below 6.0) for undergraduate entry, and 7.0 overall for the MD program.
+
+Tuition fees for international students in the Bachelor of Biomedical Science for 2024 are AUD 46,960 per year, with the four-year MD program costing AUD 95,000 per year. UQ offers the **UQ International Excellence Scholarship**, which provides a 25% tuition fee reduction for students achieving an ATAR equivalent of 99 or higher. In 2023, 48 international biomedical students received this scholarship.
+
+For cross-border tuition payments, some international families use channels like [Airwallex AU global account](https://invl.us/clng6oa) to settle fees in Australian dollars at competitive exchange rates, avoiding the typical 3-5% bank transfer margins.
+
+## Research Collaboration and Industry Links
+
+UQ biomedical programs benefit from formal partnerships with 18 major research hospitals and 42 biotechnology companies across Queensland. The **UQ–Boehringer Ingelheim Partnership**, established in 2020, provides AUD 5 million over five years for joint research in respiratory disease, with four PhD scholarships reserved for UQ biomedical graduates annually. Similarly, the **UQ–Siemens Healthineers Collaboration** grants students access to clinical imaging equipment at the UQ Centre for Advanced Imaging, which houses Australia’s only 7-tesla human MRI scanner.
+
+The **Queensland Emory Vaccine Centre (QEVC)**, a joint venture between UQ and Emory University in Atlanta, places UQ biomedical students in dual-site research projects. Since 2018, 62 UQ students have completed exchange semesters at Emory’s Rollins School of Public Health, with 14 co-authored publications resulting from these collaborations.
+
+Industry placement is a compulsory component of the Bachelor of Biomedical Science (Honours) program. Students complete a minimum of 12 weeks (480 hours) in a research laboratory or industry setting, with placements available at 90 partner organisations. UQ’s 2023 placement data shows that 68% of students received job offers from their placement host within six months of completion.
+
+## FAQ
+
+### Q1: What are the minimum ATAR and English requirements for international students applying to UQ’s Bachelor of Biomedical Science?
+
+International students need an ATAR equivalent of 85 (IB 32) for standard entry, or ATAR 90 (IB 35) for guaranteed entry. English proficiency requires an IELTS Academic overall score of 6.5 with no band below 6.0, or equivalent TOEFL iBT score of 87 (writing 21, speaking 19, reading 19, listening 19). UQ accepts PTE Academic with a minimum overall score of 64 (no communicative skill below 60). These requirements apply to the 2024 intake and are subject to annual review by UQ International.
+
+### Q2: What is the acceptance rate for UQ’s Doctor of Medicine (MD) program, and how many international places are available?
+
+For the 2024 intake, UQ received 3,420 applications for 350 total places (310 domestic, 40 international), yielding an overall acceptance rate of 10.2%. International applicants face higher competition, with approximately 15 applicants per international place. Minimum entry requires a GPA of 5.0/7.0 and a GAMSAT score of at least 50 in each section, though successful international applicants in 2023 had a mean GAMSAT score of 64 and a mean GPA of 6.2/7.0.
+
+### Q3: How much does it cost for an international student to complete the full Bachelor of Biomedical Science plus MD program at UQ?
+
+The total tuition cost for an international student completing the three-year Bachelor of Biomedical Science (AUD 46,960 per year) followed by the four-year MD program (AUD 95,000 per year) is approximately AUD 520,880 in 2024 fee levels. Living expenses in Brisbane average AUD 25,000–30,000 per year according to UQ’s 2023 cost-of-living estimate. The combined seven-year program therefore costs roughly AUD 700,000–730,000 including living expenses, before any scholarships or fee reductions.
+
+## References
+
+- QS World University Rankings by Subject 2024 – Life Sciences and Medicine
+- Australian Government Department of Education – Higher Education Research Data Collection 2022
+- Graduate Outcomes Survey (GOS) 2023 – National Centre for Vocational Education Research / Quality Indicators for Learning and Teaching (QILT)
+- Times Higher Education World University Rankings 2023 – Clinical and Health Subjects
+- U.S. News & World Report Best Global Universities 2023 – Biology and Biochemistry; Pharmacology and Toxicology
+- UQ International Student Statistics and Admissions Data 2024 – Unilink Education database

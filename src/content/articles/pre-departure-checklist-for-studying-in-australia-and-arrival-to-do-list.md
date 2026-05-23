@@ -1,0 +1,101 @@
+---
+title: "Pre-Departure Checklist for Studying in Australia and Arrival To-Do List"
+description: "Each year, over 700,000 international students are enrolled in Australian institutions across all education sectors, according to the Australian Department o…"
+category: "Pre-Departure"
+pubDatetime: '2026-04-20T00:16:09Z'
+publishDate: '2026-04-20T00:16:09Z'
+modDatetime: '2026-04-20T00:16:09Z'
+readingTime: 8
+tags: ["featured"]
+---
+
+Each year, over 700,000 international students are enrolled in Australian institutions across all education sectors, according to the Australian Department of Education’s 2024 International Student Data. The 2025 QS World University Rankings place nine Australian universities in the global top 100, reinforcing the country's position as a leading study destination. Preparing for a move to Australia involves a structured sequence of practical steps that span the final weeks before departure and the critical first days after arrival. This guide provides a detailed, step-by-step pre-departure checklist and arrival to-do list, designed to help you navigate visa compliance, accommodation setup, financial arrangements, and initial orientation with confidence. From confirming your Confirmation of Enrolment (CoE) and securing Overseas Student Health Cover (OSHC) to activating your bank account and registering with a local GP, each task is grounded in official government requirements and institutional procedures. By following this checklist, you can minimise last-minute stress and transition smoothly into academic life in Australia.
+
+## Visa Confirmation and Travel Documents
+
+Before any flight is booked, the **student visa (Subclass 500)** must be granted. The Australian Department of Home Affairs reported that in 2023-24, the median processing time for a Subclass 500 visa was 35 days for higher education applicants [Department of Home Affairs, 2024, Visa Processing Times Report]. You must have a valid Confirmation of Enrolment (CoE) for each course before lodging the application.
+
+### Checking Your Visa Grant Notice
+Once granted, carefully review your visa grant letter. It specifies your visa start date, work conditions (typically 48 hours per fortnight during term), and the visa expiry date. Print a hard copy and save a digital version in your phone and email. Australian Border Force officers may request to see your visa at immigration clearance.
+
+### Passport Validity and Copies
+Ensure your passport has at least six months of validity remaining from your intended date of entry. Make two colour photocopies of the biodata page: keep one set in your carry-on luggage and leave another with a family member at home. Some state transport authorities, such as Service NSW, accept passport copies for initial identification purposes when applying for a driver licence.
+
+## Health Insurance and Medical Preparations
+
+**Overseas Student Health Cover (OSHC)** is a mandatory condition of the student visa. You must maintain OSHC for the entire duration of your stay. The Australian Government's Private Health Insurance Ombudsman reported that in 2023, the average annual cost for single OSHC policies ranged from AUD 478 to AUD 1,012 depending on the provider and cover level [PHIO, 2024, OSHC Comparison Report].
+
+### Choosing an OSHC Provider
+Most universities have preferred OSHC providers (e.g., Medibank, Allianz Care, Bupa, nib). You can purchase directly through your institution or compare policies independently. Your OSHC certificate must be presented when you arrive at the airport for visa clearance. Keep the membership number and emergency contact details accessible.
+
+### Pre-Existing Conditions and Prescriptions
+If you take regular medication, carry a doctor's letter (in English) listing the generic names and dosages. The Therapeutic Goods Administration (TGA) regulates imported medicines; a three-month supply is generally permitted for personal use. For pre-existing conditions, check your OSHC policy's waiting periods—typically 12 months for pre-existing conditions under most policies.
+
+## Accommodation and Arrival Logistics
+
+Securing temporary accommodation for your first 7–14 days is critical. The Australian Housing and Urban Research Institute (AHURI) noted that in 2024, the national rental vacancy rate was below 1.5% in capital cities, making last-minute bookings difficult [AHURI, 2024, Rental Market Report]. Book a hotel, hostel, or serviced apartment before you depart.
+
+### University Accommodation Options
+Many universities guarantee on-campus housing for first-year international students if applications are submitted by a specified deadline (often October–November for February intake). Apply early through your institution's accommodation portal. Off-campus private rentals require a bond (usually four weeks' rent) and may require a guarantor who is an Australian resident.
+
+### Airport Transfer and Transport
+Research airport transfer options from your arrival airport (Sydney, Melbourne, Brisbane, Perth, or Adelaide) to your accommodation. The SkyBus in Melbourne and the Airport Link train in Sydney are reliable public transport choices. Download transport apps like TripView (Sydney) or PTV (Melbourne) for real-time schedules. For cross-border tuition payments, some international families use channels like [Airwallex AU global account](https://invl.us/clng6oa) to settle fees before departure.
+
+## Banking and Financial Setup
+
+Opening an Australian bank account before you leave can save significant time. Most major banks—Commonwealth Bank, Westpac, NAB, and ANZ—allow international students to open an account online up to 12 weeks before arrival. The Reserve Bank of Australia (RBA) reported that in 2024, over 85% of international students opened their first account within the first week of arrival [RBA, 2024, Payments System Data].
+
+### Documents Required for Account Opening
+To activate your account in-branch, you typically need: your passport, your visa grant letter, and proof of enrolment (CoE). Some banks also accept your Australian address (temporary accommodation is fine). Bring a tax file number (TFN) application form—you can apply for a TFN online through the Australian Taxation Office (ATO) once you have a local address.
+
+### Currency and Transfer Methods
+Carry a small amount of Australian dollars in cash (AUD 500–1,000) for immediate expenses like taxi fares and food. Use a travel money card or a global multi-currency account for larger transfers. Avoid exchanging large sums at airport kiosks, where exchange rates are typically 3–5% less favourable than online transfer services.
+
+## University Orientation and Academic Registration
+
+**Orientation Week (O-Week)** is a mandatory event for most institutions. It typically runs one to two weeks before the start of the academic semester. The Australian Universities Accord Final Report (2024) highlighted that students who attend orientation are 23% more likely to continue into their second year [Department of Education, 2024, Universities Accord Report].
+
+### Enrolling in Classes
+During orientation, you will finalise your class timetable through your university's student portal (e.g., myUNSW, my.UQ, myMurdoch). Some courses have limited places and fill quickly, so log in as soon as enrolment opens. Your academic advisor or faculty office can help resolve timetable clashes.
+
+### Compulsory Sessions
+Attend sessions on academic integrity, library services, and student support. Many universities require completion of an online academic integrity module before you can submit your first assignment. Also, register for the Overseas Student Health Cover (OSHC) information session if your provider offers one.
+
+## Transport and Local Registration
+
+Once you have a fixed address, you must register for local services. The Australian Department of Infrastructure, Transport, Regional Development, Communications and the Arts reported that in 2024, 68% of international students living in major cities used public transport as their primary mode of travel [BITRE, 2024, Transport Statistics].
+
+### Public Transport Concessions
+Apply for a student concession card for public transport. In New South Wales, you need an Opal card linked to a student concession; in Victoria, a myki card with a student pass. Concession fares are typically 50% cheaper than adult fares. You will need your student ID and proof of enrolment to apply.
+
+### Tax File Number (TFN)
+A TFN is essential if you plan to work part-time (up to 48 hours per fortnight during term). Apply online at the Australian Taxation Office (ATO) website. Without a TFN, your employer must withhold tax at the highest marginal rate (up to 47%). Processing takes 28 days, so apply in your first week.
+
+## Healthcare Registration and Emergency Contacts
+
+Registering with a local **General Practitioner (GP)** and understanding the healthcare system is a key step. While OSHC covers most medical consultations, you may still face a gap fee (the difference between the doctor's charge and the Medicare benefit). The Australian Institute of Health and Welfare (AIHW) reported that in 2022-23, the average GP consultation cost AUD 78.70, with OSHC rebates covering around AUD 40–50 [AIHW, 2024, Health Expenditure Data].
+
+### Finding a Bulk-Billing Clinic
+Some clinics offer "bulk billing," meaning they accept the OSHC rebate as full payment, leaving you with no out-of-pocket cost. Search for bulk-billing clinics near your accommodation through the HealthDirect website. Many university health centres also offer bulk-billed services for enrolled students.
+
+### Emergency Numbers
+Save these numbers in your phone: 000 (police, fire, ambulance), 131 444 (police assistance line for non-urgent matters), and the 24-hour Student Assistance helpline provided by your OSHC insurer. Also, register your address with the local police station if required by your visa conditions (not mandatory for most students).
+
+## FAQ
+
+### Q1: How much money do I need to show for my student visa application?
+As of October 2024, the Australian Department of Home Affairs requires evidence of at least AUD 29,710 in savings for a single student for 12 months of living costs, plus tuition fees and travel costs. This figure is updated each financial year based on the 12-month living cost index. You must provide bank statements or a student loan letter dated within 3 months of your visa application.
+
+### Q2: Can I work before my course starts?
+You can work up to 48 hours per fortnight once your course commences. Before the course start date, you cannot work unless you are granted a separate work visa. However, you can work unlimited hours during scheduled course breaks (e.g., summer holidays). The 48-hour limit applies only during academic terms.
+
+### Q3: What happens if I arrive after my O-Week starts?
+Contact your university's international student support office immediately. Most institutions allow late arrival up to the end of the first week of classes, but you must notify them in writing. Missing O-Week may mean you miss mandatory academic integrity sessions and class enrolment deadlines. You may be charged a late enrolment fee (typically AUD 200–500).
+
+## References
+
+- Department of Home Affairs. 2024. Visa Processing Times Report (Subclass 500).
+- Private Health Insurance Ombudsman. 2024. OSHC Comparison Report 2023.
+- Australian Housing and Urban Research Institute. 2024. Rental Market Report.
+- Reserve Bank of Australia. 2024. Payments System Data – International Students.
+- Department of Education. 2024. Universities Accord Final Report.
