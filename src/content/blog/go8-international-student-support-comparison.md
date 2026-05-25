@@ -6,7 +6,7 @@ publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: go8-international-student-support-comparison
 ogImage: 'https://img.ulec.com.cn/留学-澳洲全球视角/go8-international-student-support-comparison-2026-1880x1253.jpg'
-tags: []
+tags:
   - '澳洲八大'
   - 'Go8'
   - '国际学生支持'

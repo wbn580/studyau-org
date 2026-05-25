@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: australia-go8-2025-tuition-living-cost-comparison
 ogImage: 'https://img.ulec.com.cn/留学-澳洲全球视角/australia-go8-2025-tuition-living-cost-comparison-2026-1880x1253.jpg'
-tags: []
+tags:
   - '澳洲八大'
   - '留学费用'
   - '2025学费'

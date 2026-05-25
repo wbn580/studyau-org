@@ -5,15 +5,16 @@ const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
-    description: z.string(),
-    category: z.string(),
-    publishDate: z.string(),
-    pubDatetime: z.string(),
-    modDatetime: z.string(),
     readingTime: z.number().optional(),
-    tags: z.array(z.string()).default([]),
+    description: z.string(),
+    publishDate: z.string(),
+    modDatetime: z.string(),
+    pubDatetime: z.string(),
     ogImage: z.string().optional(),
-  }),
+    tags: z.array(z.string()).default([]),
+    category: z.string(),
+
+  },
 });
 
 export const collections = { articles };
